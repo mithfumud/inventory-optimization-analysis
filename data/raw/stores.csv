@@ -1,0 +1,27 @@
+store_id,store_name,city,region
+S001,Urban Retail - Connaught Place,New Delhi,North
+S002,Urban Retail - Saket,New Delhi,North
+S003,Urban Retail - Cyber Hub,Gurugram,North
+S004,Urban Retail - Sector 18,Noida,North
+S005,Urban Retail - MI Road,Jaipur,North
+S006,Urban Retail - Hazratganj,Lucknow,North
+S007,Urban Retail - Sector 17,Chandigarh,North
+S008,Urban Retail - Andheri,Mumbai,West
+S009,Urban Retail - Lower Parel,Mumbai,West
+S010,Urban Retail - Koregaon Park,Pune,West
+S011,Urban Retail - SG Highway,Ahmedabad,West
+S012,Urban Retail - Adajan,Surat,West
+S013,Urban Retail - Koramangala,Bengaluru,South
+S014,Urban Retail - Whitefield,Bengaluru,South
+S015,Urban Retail - T Nagar,Chennai,South
+S016,Urban Retail - Banjara Hills,Hyderabad,South
+S017,Urban Retail - Edappally,Kochi,South
+S018,Urban Retail - RS Puram,Coimbatore,South
+S019,Urban Retail - Salt Lake,Kolkata,East
+S020,Urban Retail - Park Street,Kolkata,East
+S021,Urban Retail - Saheed Nagar,Bhubaneswar,East
+S022,Urban Retail - Boring Road,Patna,East
+S023,Urban Retail - GS Road,Guwahati,East
+S024,Urban Retail - Vijay Nagar,Indore,Central
+S025,Urban Retail - MP Nagar,Bhopal,Central
+S026,Urban Retail - Sitabuldi,Nagpur,Central

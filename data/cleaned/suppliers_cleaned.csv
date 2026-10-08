@@ -1,0 +1,1263 @@
+supplier_id,supplier_name,product_id,lead_time_days,on_time_delivery_rate
+SUP001,Global Distributors,P0028,20,0.683
+SUP001,Global Distributors,P0052,18,0.732
+SUP001,Global Distributors,P0085,19,0.72
+SUP001,Global Distributors,P0109,19,0.735
+SUP001,Global Distributors,P0123,18,0.704
+SUP001,Global Distributors,P0129,18,0.694
+SUP001,Global Distributors,P0140,19,0.713
+SUP001,Global Distributors,P0161,20,0.71
+SUP001,Global Distributors,P0188,21,0.737
+SUP001,Global Distributors,P0205,19,0.695
+SUP001,Global Distributors,P0240,20,0.689
+SUP001,Global Distributors,P0270,18,0.714
+SUP001,Global Distributors,P0281,18,0.7
+SUP001,Global Distributors,P0362,19,0.72
+SUP001,Global Distributors,P0363,20,0.716
+SUP001,Global Distributors,P0409,21,0.689
+SUP001,Global Distributors,P0473,19,0.698
+SUP001,Global Distributors,P0555,18,0.687
+SUP001,Global Distributors,P0595,19,0.732
+SUP001,Global Distributors,P0620,19,0.711
+SUP001,Global Distributors,P0633,18,0.754
+SUP001,Global Distributors,P0664,21,0.724
+SUP001,Global Distributors,P0683,21,0.726
+SUP001,Global Distributors,P0723,20,0.727
+SUP001,Global Distributors,P0732,18,0.713
+SUP001,Global Distributors,P0735,18,0.725
+SUP001,Global Distributors,P0775,20,0.719
+SUP001,Global Distributors,P0812,21,0.72
+SUP001,Global Distributors,P0826,21,0.727
+SUP001,Global Distributors,P0872,18,0.679
+SUP001,Global Distributors,P0921,19,0.706
+SUP001,Global Distributors,P0973,19,0.719
+SUP002,Bharat Traders,P0051,8,0.802
+SUP002,Bharat Traders,P0089,10,0.822
+SUP002,Bharat Traders,P0128,8,0.808
+SUP002,Bharat Traders,P0131,8,0.829
+SUP002,Bharat Traders,P0153,10,0.809
+SUP002,Bharat Traders,P0206,8,0.848
+SUP002,Bharat Traders,P0217,11,0.81
+SUP002,Bharat Traders,P0218,10,0.811
+SUP002,Bharat Traders,P0255,9,0.783
+SUP002,Bharat Traders,P0261,11,0.808
+SUP002,Bharat Traders,P0272,11,0.818
+SUP002,Bharat Traders,P0283,11,0.823
+SUP002,Bharat Traders,P0309,9,0.82
+SUP002,Bharat Traders,P0348,8,0.826
+SUP002,Bharat Traders,P0416,11,0.798
+SUP002,Bharat Traders,P0419,10,0.797
+SUP002,Bharat Traders,P0469,10,0.834
+SUP002,Bharat Traders,P0539,9,0.804
+SUP002,Bharat Traders,P0545,9,0.817
+SUP002,Bharat Traders,P0552,10,0.791
+SUP002,Bharat Traders,P0589,10,0.815
+SUP002,Bharat Traders,P0663,8,0.819
+SUP002,Bharat Traders,P0693,10,0.848
+SUP002,Bharat Traders,P0737,11,0.828
+SUP002,Bharat Traders,P0751,8,0.832
+SUP002,Bharat Traders,P0756,11,0.799
+SUP002,Bharat Traders,P0778,10,0.814
+SUP002,Bharat Traders,P0781,8,0.813
+SUP002,Bharat Traders,P0791,10,0.786
+SUP002,Bharat Traders,P0870,11,0.812
+SUP002,Bharat Traders,P0893,8,0.813
+SUP002,Bharat Traders,P0909,8,0.8
+SUP002,Bharat Traders,P0918,9,0.822
+SUP002,Bharat Traders,P0941,8,0.808
+SUP002,Bharat Traders,P0953,9,0.808
+SUP002,Bharat Traders,P0954,9,0.81
+SUP002,Bharat Traders,P0963,8,0.778
+SUP003,Metro Distributors,P0002,4,0.958
+SUP003,Metro Distributors,P0022,5,0.99
+SUP003,Metro Distributors,P0044,6,0.932
+SUP003,Metro Distributors,P0072,6,0.928
+SUP003,Metro Distributors,P0094,7,0.954
+SUP003,Metro Distributors,P0113,6,0.982
+SUP003,Metro Distributors,P0124,6,0.956
+SUP003,Metro Distributors,P0149,4,0.982
+SUP003,Metro Distributors,P0169,4,0.964
+SUP003,Metro Distributors,P0184,5,0.967
+SUP003,Metro Distributors,P0187,4,0.982
+SUP003,Metro Distributors,P0249,6,0.948
+SUP003,Metro Distributors,P0250,7,0.909
+SUP003,Metro Distributors,P0276,4,0.968
+SUP003,Metro Distributors,P0307,5,0.99
+SUP003,Metro Distributors,P0317,7,0.939
+SUP003,Metro Distributors,P0369,5,0.99
+SUP003,Metro Distributors,P0373,6,0.966
+SUP003,Metro Distributors,P0398,5,0.967
+SUP003,Metro Distributors,P0407,7,0.962
+SUP003,Metro Distributors,P0475,5,0.99
+SUP003,Metro Distributors,P0484,7,0.935
+SUP003,Metro Distributors,P0486,6,0.99
+SUP003,Metro Distributors,P0497,5,0.967
+SUP003,Metro Distributors,P0499,5,0.972
+SUP003,Metro Distributors,P0517,7,0.961
+SUP003,Metro Distributors,P0526,4,0.948
+SUP003,Metro Distributors,P0569,6,0.98
+SUP003,Metro Distributors,P0584,7,0.969
+SUP003,Metro Distributors,P0618,4,0.979
+SUP003,Metro Distributors,P0669,4,0.966
+SUP003,Metro Distributors,P0700,6,0.952
+SUP003,Metro Distributors,P0722,7,0.951
+SUP003,Metro Distributors,P0738,7,0.931
+SUP003,Metro Distributors,P0740,6,0.958
+SUP003,Metro Distributors,P0786,7,0.968
+SUP003,Metro Distributors,P0877,4,0.973
+SUP003,Metro Distributors,P0897,4,0.94
+SUP003,Metro Distributors,P0933,5,0.932
+SUP003,Metro Distributors,P0945,6,0.954
+SUP003,Metro Distributors,P0975,4,0.973
+SUP004,Elite Distributors,P0035,11,0.808
+SUP004,Elite Distributors,P0038,11,0.872
+SUP004,Elite Distributors,P0058,13,0.821
+SUP004,Elite Distributors,P0063,13,0.84
+SUP004,Elite Distributors,P0079,14,0.839
+SUP004,Elite Distributors,P0135,13,0.8
+SUP004,Elite Distributors,P0141,11,0.828
+SUP004,Elite Distributors,P0212,14,0.814
+SUP004,Elite Distributors,P0234,11,0.828
+SUP004,Elite Distributors,P0237,14,0.836
+SUP004,Elite Distributors,P0244,11,0.844
+SUP004,Elite Distributors,P0253,11,0.827
+SUP004,Elite Distributors,P0260,11,0.875
+SUP004,Elite Distributors,P0304,14,0.781
+SUP004,Elite Distributors,P0306,13,0.838
+SUP004,Elite Distributors,P0354,13,0.824
+SUP004,Elite Distributors,P0356,12,0.815
+SUP004,Elite Distributors,P0396,12,0.846
+SUP004,Elite Distributors,P0465,14,0.823
+SUP004,Elite Distributors,P0472,11,0.849
+SUP004,Elite Distributors,P0490,12,0.803
+SUP004,Elite Distributors,P0505,14,0.839
+SUP004,Elite Distributors,P0509,14,0.821
+SUP004,Elite Distributors,P0542,13,0.873
+SUP004,Elite Distributors,P0560,13,0.864
+SUP004,Elite Distributors,P0570,12,0.823
+SUP004,Elite Distributors,P0576,13,0.79
+SUP004,Elite Distributors,P0710,14,0.815
+SUP004,Elite Distributors,P0814,13,0.818
+SUP004,Elite Distributors,P0822,14,0.845
+SUP004,Elite Distributors,P0836,13,0.836
+SUP004,Elite Distributors,P0856,11,0.831
+SUP004,Elite Distributors,P0920,13,0.799
+SUP004,Elite Distributors,P0924,14,0.87
+SUP004,Elite Distributors,P0958,13,0.847
+SUP004,Elite Distributors,P0966,11,0.837
+SUP004,Elite Distributors,P0969,12,0.803
+SUP004,Elite Distributors,P0979,13,0.802
+SUP005,Global Enterprises,P0096,4,0.94
+SUP005,Global Enterprises,P0120,3,0.971
+SUP005,Global Enterprises,P0158,2,0.987
+SUP005,Global Enterprises,P0159,4,0.939
+SUP005,Global Enterprises,P0223,2,0.965
+SUP005,Global Enterprises,P0229,4,0.939
+SUP005,Global Enterprises,P0245,3,0.944
+SUP005,Global Enterprises,P0251,2,0.92
+SUP005,Global Enterprises,P0333,2,0.946
+SUP005,Global Enterprises,P0351,4,0.935
+SUP005,Global Enterprises,P0368,3,0.964
+SUP005,Global Enterprises,P0380,3,0.981
+SUP005,Global Enterprises,P0387,2,0.931
+SUP005,Global Enterprises,P0394,2,0.941
+SUP005,Global Enterprises,P0412,4,0.99
+SUP005,Global Enterprises,P0491,2,0.945
+SUP005,Global Enterprises,P0598,5,0.958
+SUP005,Global Enterprises,P0600,5,0.968
+SUP005,Global Enterprises,P0604,4,0.931
+SUP005,Global Enterprises,P0612,5,0.962
+SUP005,Global Enterprises,P0637,2,0.944
+SUP005,Global Enterprises,P0645,2,0.928
+SUP005,Global Enterprises,P0653,2,0.932
+SUP005,Global Enterprises,P0685,3,0.963
+SUP005,Global Enterprises,P0800,5,0.957
+SUP005,Global Enterprises,P0834,2,0.973
+SUP005,Global Enterprises,P0882,3,0.96
+SUP006,Sunrise Logistics,P0021,20,0.622
+SUP006,Sunrise Logistics,P0031,21,0.638
+SUP006,Sunrise Logistics,P0080,21,0.617
+SUP006,Sunrise Logistics,P0139,20,0.615
+SUP006,Sunrise Logistics,P0236,19,0.615
+SUP006,Sunrise Logistics,P0238,19,0.626
+SUP006,Sunrise Logistics,P0256,19,0.646
+SUP006,Sunrise Logistics,P0298,20,0.64
+SUP006,Sunrise Logistics,P0299,21,0.618
+SUP006,Sunrise Logistics,P0358,21,0.628
+SUP006,Sunrise Logistics,P0418,21,0.638
+SUP006,Sunrise Logistics,P0430,21,0.6
+SUP006,Sunrise Logistics,P0501,21,0.59
+SUP006,Sunrise Logistics,P0549,18,0.618
+SUP006,Sunrise Logistics,P0567,21,0.601
+SUP006,Sunrise Logistics,P0602,20,0.629
+SUP006,Sunrise Logistics,P0621,20,0.666
+SUP006,Sunrise Logistics,P0667,18,0.638
+SUP006,Sunrise Logistics,P0707,19,0.628
+SUP006,Sunrise Logistics,P0713,19,0.614
+SUP006,Sunrise Logistics,P0857,19,0.662
+SUP006,Sunrise Logistics,P0895,18,0.637
+SUP006,Sunrise Logistics,P0930,21,0.642
+SUP007,Royal Imports,P0003,8,0.789
+SUP007,Royal Imports,P0181,8,0.812
+SUP007,Royal Imports,P0182,6,0.846
+SUP007,Royal Imports,P0428,6,0.839
+SUP007,Royal Imports,P0452,7,0.782
+SUP007,Royal Imports,P0575,5,0.812
+SUP007,Royal Imports,P0655,6,0.823
+SUP007,Royal Imports,P0657,5,0.827
+SUP007,Royal Imports,P0803,8,0.831
+SUP007,Royal Imports,P0816,6,0.84
+SUP007,Royal Imports,P0853,8,0.834
+SUP007,Royal Imports,P0912,8,0.833
+SUP008,Galaxy Logistics,P0137,14,0.838
+SUP008,Galaxy Logistics,P0174,11,0.838
+SUP008,Galaxy Logistics,P0226,14,0.87
+SUP008,Galaxy Logistics,P0293,14,0.876
+SUP008,Galaxy Logistics,P0321,14,0.825
+SUP008,Galaxy Logistics,P0347,11,0.847
+SUP008,Galaxy Logistics,P0382,12,0.847
+SUP008,Galaxy Logistics,P0386,12,0.812
+SUP008,Galaxy Logistics,P0388,12,0.857
+SUP008,Galaxy Logistics,P0405,12,0.839
+SUP008,Galaxy Logistics,P0447,14,0.873
+SUP008,Galaxy Logistics,P0457,12,0.829
+SUP008,Galaxy Logistics,P0463,14,0.868
+SUP008,Galaxy Logistics,P0527,11,0.832
+SUP008,Galaxy Logistics,P0528,12,0.806
+SUP008,Galaxy Logistics,P0605,14,0.87
+SUP008,Galaxy Logistics,P0625,11,0.829
+SUP008,Galaxy Logistics,P0631,14,0.86
+SUP008,Galaxy Logistics,P0673,11,0.876
+SUP008,Galaxy Logistics,P0711,12,0.825
+SUP008,Galaxy Logistics,P0724,14,0.85
+SUP008,Galaxy Logistics,P0765,12,0.854
+SUP008,Galaxy Logistics,P0813,11,0.88
+SUP008,Galaxy Logistics,P0838,12,0.87
+SUP008,Galaxy Logistics,P0854,12,0.868
+SUP008,Galaxy Logistics,P0883,11,0.836
+SUP008,Galaxy Logistics,P0905,13,0.834
+SUP008,Galaxy Logistics,P0915,13,0.793
+SUP008,Galaxy Logistics,P0995,13,0.815
+SUP009,Sunrise Imports,P0069,16,0.652
+SUP009,Sunrise Imports,P0098,18,0.739
+SUP009,Sunrise Imports,P0099,18,0.684
+SUP009,Sunrise Imports,P0125,15,0.649
+SUP009,Sunrise Imports,P0164,18,0.669
+SUP009,Sunrise Imports,P0230,17,0.671
+SUP009,Sunrise Imports,P0269,17,0.662
+SUP009,Sunrise Imports,P0271,16,0.703
+SUP009,Sunrise Imports,P0287,17,0.68
+SUP009,Sunrise Imports,P0290,16,0.697
+SUP009,Sunrise Imports,P0364,18,0.689
+SUP009,Sunrise Imports,P0429,16,0.671
+SUP009,Sunrise Imports,P0435,18,0.639
+SUP009,Sunrise Imports,P0449,15,0.682
+SUP009,Sunrise Imports,P0451,18,0.704
+SUP009,Sunrise Imports,P0485,17,0.682
+SUP009,Sunrise Imports,P0525,17,0.696
+SUP009,Sunrise Imports,P0583,15,0.651
+SUP009,Sunrise Imports,P0595,18,0.667
+SUP009,Sunrise Imports,P0643,17,0.701
+SUP009,Sunrise Imports,P0650,16,0.671
+SUP009,Sunrise Imports,P0683,18,0.689
+SUP009,Sunrise Imports,P0728,17,0.671
+SUP009,Sunrise Imports,P0763,15,0.659
+SUP009,Sunrise Imports,P0766,16,0.677
+SUP009,Sunrise Imports,P0768,17,0.725
+SUP009,Sunrise Imports,P0795,18,0.682
+SUP009,Sunrise Imports,P0812,18,0.663
+SUP009,Sunrise Imports,P0841,17,0.674
+SUP009,Sunrise Imports,P0845,15,0.712
+SUP009,Sunrise Imports,P0865,16,0.672
+SUP009,Sunrise Imports,P0872,17,0.693
+SUP009,Sunrise Imports,P0921,17,0.707
+SUP009,Sunrise Imports,P0940,17,0.666
+SUP009,Sunrise Imports,P0972,17,0.671
+SUP010,National Logistics,P0029,3,0.974
+SUP010,National Logistics,P0039,5,0.977
+SUP010,National Logistics,P0071,4,0.99
+SUP010,National Logistics,P0163,5,0.99
+SUP010,National Logistics,P0173,6,0.99
+SUP010,National Logistics,P0190,4,0.974
+SUP010,National Logistics,P0199,6,0.965
+SUP010,National Logistics,P0204,4,0.974
+SUP010,National Logistics,P0231,4,0.99
+SUP010,National Logistics,P0243,4,0.958
+SUP010,National Logistics,P0264,3,0.969
+SUP010,National Logistics,P0268,6,0.99
+SUP010,National Logistics,P0282,5,0.969
+SUP010,National Logistics,P0284,4,0.966
+SUP010,National Logistics,P0302,3,0.961
+SUP010,National Logistics,P0313,5,0.961
+SUP010,National Logistics,P0375,6,0.967
+SUP010,National Logistics,P0417,3,0.973
+SUP010,National Logistics,P0419,5,0.99
+SUP010,National Logistics,P0427,4,0.99
+SUP010,National Logistics,P0456,4,0.988
+SUP010,National Logistics,P0462,6,0.97
+SUP010,National Logistics,P0469,5,0.99
+SUP010,National Logistics,P0482,5,0.99
+SUP010,National Logistics,P0516,5,0.99
+SUP010,National Logistics,P0536,6,0.94
+SUP010,National Logistics,P0539,4,0.944
+SUP010,National Logistics,P0552,6,0.971
+SUP010,National Logistics,P0553,4,0.978
+SUP010,National Logistics,P0679,5,0.952
+SUP010,National Logistics,P0701,3,0.967
+SUP010,National Logistics,P0703,6,0.99
+SUP010,National Logistics,P0737,5,0.966
+SUP010,National Logistics,P0762,3,0.982
+SUP010,National Logistics,P0771,4,0.945
+SUP010,National Logistics,P0798,3,0.99
+SUP010,National Logistics,P0805,6,0.977
+SUP010,National Logistics,P0806,3,0.967
+SUP010,National Logistics,P0815,5,0.99
+SUP010,National Logistics,P0830,3,0.951
+SUP010,National Logistics,P0849,6,0.942
+SUP010,National Logistics,P0885,3,0.956
+SUP010,National Logistics,P0899,5,0.958
+SUP010,National Logistics,P0925,4,0.969
+SUP010,National Logistics,P0927,6,0.99
+SUP010,National Logistics,P0938,5,0.99
+SUP010,National Logistics,P0952,6,0.99
+SUP010,National Logistics,P0968,5,0.975
+SUP011,Apex Traders,P0022,14,0.675
+SUP011,Apex Traders,P0034,16,0.679
+SUP011,Apex Traders,P0047,15,0.678
+SUP011,Apex Traders,P0048,14,0.662
+SUP011,Apex Traders,P0070,16,0.629
+SUP011,Apex Traders,P0082,15,0.697
+SUP011,Apex Traders,P0093,14,0.634
+SUP011,Apex Traders,P0113,15,0.634
+SUP011,Apex Traders,P0134,15,0.644
+SUP011,Apex Traders,P0166,15,0.651
+SUP011,Apex Traders,P0171,13,0.689
+SUP011,Apex Traders,P0288,15,0.704
+SUP011,Apex Traders,P0312,16,0.651
+SUP011,Apex Traders,P0316,14,0.691
+SUP011,Apex Traders,P0372,15,0.672
+SUP011,Apex Traders,P0379,15,0.651
+SUP011,Apex Traders,P0401,14,0.659
+SUP011,Apex Traders,P0476,13,0.675
+SUP011,Apex Traders,P0497,16,0.632
+SUP011,Apex Traders,P0546,13,0.687
+SUP011,Apex Traders,P0610,15,0.661
+SUP011,Apex Traders,P0651,16,0.651
+SUP011,Apex Traders,P0658,16,0.658
+SUP011,Apex Traders,P0676,16,0.722
+SUP011,Apex Traders,P0731,16,0.672
+SUP011,Apex Traders,P0739,14,0.635
+SUP011,Apex Traders,P0748,15,0.658
+SUP011,Apex Traders,P0752,14,0.678
+SUP011,Apex Traders,P0757,14,0.691
+SUP011,Apex Traders,P0792,15,0.661
+SUP011,Apex Traders,P0796,15,0.682
+SUP011,Apex Traders,P0802,14,0.666
+SUP011,Apex Traders,P0820,16,0.686
+SUP011,Apex Traders,P0833,13,0.661
+SUP011,Apex Traders,P0844,16,0.671
+SUP011,Apex Traders,P0847,14,0.692
+SUP011,Apex Traders,P0859,16,0.651
+SUP011,Apex Traders,P0874,16,0.655
+SUP011,Apex Traders,P0878,16,0.658
+SUP011,Apex Traders,P0886,13,0.614
+SUP011,Apex Traders,P0950,14,0.617
+SUP011,Apex Traders,P0962,16,0.676
+SUP011,Apex Traders,P0996,13,0.652
+SUP012,Ganga Traders,P0063,20,0.616
+SUP012,Ganga Traders,P0088,17,0.652
+SUP012,Ganga Traders,P0111,18,0.577
+SUP012,Ganga Traders,P0126,18,0.604
+SUP012,Ganga Traders,P0145,18,0.628
+SUP012,Ganga Traders,P0303,20,0.603
+SUP012,Ganga Traders,P0311,20,0.572
+SUP012,Ganga Traders,P0322,18,0.616
+SUP012,Ganga Traders,P0328,19,0.61
+SUP012,Ganga Traders,P0360,17,0.579
+SUP012,Ganga Traders,P0461,18,0.607
+SUP012,Ganga Traders,P0470,17,0.644
+SUP012,Ganga Traders,P0483,18,0.649
+SUP012,Ganga Traders,P0537,17,0.605
+SUP012,Ganga Traders,P0558,20,0.605
+SUP012,Ganga Traders,P0559,19,0.568
+SUP012,Ganga Traders,P0573,18,0.629
+SUP012,Ganga Traders,P0582,20,0.615
+SUP012,Ganga Traders,P0629,19,0.582
+SUP012,Ganga Traders,P0648,17,0.581
+SUP012,Ganga Traders,P0659,18,0.627
+SUP012,Ganga Traders,P0675,17,0.616
+SUP012,Ganga Traders,P0684,20,0.604
+SUP012,Ganga Traders,P0717,19,0.609
+SUP012,Ganga Traders,P0745,17,0.608
+SUP012,Ganga Traders,P0822,20,0.586
+SUP012,Ganga Traders,P0827,20,0.574
+SUP012,Ganga Traders,P0840,18,0.631
+SUP012,Ganga Traders,P0960,18,0.597
+SUP013,Ganga Wholesale,P0004,7,0.826
+SUP013,Ganga Wholesale,P0030,10,0.87
+SUP013,Ganga Wholesale,P0054,8,0.859
+SUP013,Ganga Wholesale,P0055,7,0.89
+SUP013,Ganga Wholesale,P0092,10,0.888
+SUP013,Ganga Wholesale,P0118,9,0.866
+SUP013,Ganga Wholesale,P0156,10,0.853
+SUP013,Ganga Wholesale,P0186,7,0.845
+SUP013,Ganga Wholesale,P0208,7,0.858
+SUP013,Ganga Wholesale,P0211,7,0.814
+SUP013,Ganga Wholesale,P0245,7,0.853
+SUP013,Ganga Wholesale,P0247,8,0.839
+SUP013,Ganga Wholesale,P0300,9,0.859
+SUP013,Ganga Wholesale,P0308,7,0.862
+SUP013,Ganga Wholesale,P0466,8,0.878
+SUP013,Ganga Wholesale,P0478,9,0.884
+SUP013,Ganga Wholesale,P0479,9,0.841
+SUP013,Ganga Wholesale,P0524,9,0.844
+SUP013,Ganga Wholesale,P0531,9,0.858
+SUP013,Ganga Wholesale,P0534,7,0.857
+SUP013,Ganga Wholesale,P0565,9,0.828
+SUP013,Ganga Wholesale,P0597,9,0.82
+SUP013,Ganga Wholesale,P0645,7,0.867
+SUP013,Ganga Wholesale,P0649,10,0.881
+SUP013,Ganga Wholesale,P0699,10,0.853
+SUP013,Ganga Wholesale,P0770,8,0.868
+SUP013,Ganga Wholesale,P0790,8,0.86
+SUP013,Ganga Wholesale,P0819,10,0.844
+SUP013,Ganga Wholesale,P0834,8,0.849
+SUP013,Ganga Wholesale,P0879,9,0.846
+SUP013,Ganga Wholesale,P0947,9,0.838
+SUP013,Ganga Wholesale,P0976,9,0.814
+SUP013,Ganga Wholesale,P0997,7,0.863
+SUP014,Shree Agencies,P0007,8,0.81
+SUP014,Shree Agencies,P0008,8,0.84
+SUP014,Shree Agencies,P0053,6,0.845
+SUP014,Shree Agencies,P0056,8,0.837
+SUP014,Shree Agencies,P0105,6,0.817
+SUP014,Shree Agencies,P0168,7,0.817
+SUP014,Shree Agencies,P0180,6,0.842
+SUP014,Shree Agencies,P0185,7,0.812
+SUP014,Shree Agencies,P0216,6,0.844
+SUP014,Shree Agencies,P0357,7,0.859
+SUP014,Shree Agencies,P0358,8,0.823
+SUP014,Shree Agencies,P0439,8,0.83
+SUP014,Shree Agencies,P0506,7,0.835
+SUP014,Shree Agencies,P0616,5,0.853
+SUP014,Shree Agencies,P0621,7,0.832
+SUP014,Shree Agencies,P0627,8,0.887
+SUP014,Shree Agencies,P0630,8,0.81
+SUP014,Shree Agencies,P0689,5,0.851
+SUP014,Shree Agencies,P0779,7,0.895
+SUP014,Shree Agencies,P0789,6,0.823
+SUP014,Shree Agencies,P0837,5,0.841
+SUP014,Shree Agencies,P0862,5,0.818
+SUP014,Shree Agencies,P0863,5,0.849
+SUP014,Shree Agencies,P0983,6,0.864
+SUP015,Om Sai Enterprises,P0003,6,0.965
+SUP015,Om Sai Enterprises,P0019,5,0.968
+SUP015,Om Sai Enterprises,P0045,3,0.971
+SUP015,Om Sai Enterprises,P0116,6,0.99
+SUP015,Om Sai Enterprises,P0151,3,0.985
+SUP015,Om Sai Enterprises,P0252,3,0.982
+SUP015,Om Sai Enterprises,P0279,5,0.979
+SUP015,Om Sai Enterprises,P0291,3,0.99
+SUP015,Om Sai Enterprises,P0305,4,0.99
+SUP015,Om Sai Enterprises,P0414,4,0.974
+SUP015,Om Sai Enterprises,P0508,6,0.99
+SUP015,Om Sai Enterprises,P0512,3,0.981
+SUP015,Om Sai Enterprises,P0579,3,0.99
+SUP015,Om Sai Enterprises,P0632,4,0.967
+SUP015,Om Sai Enterprises,P0776,6,0.984
+SUP015,Om Sai Enterprises,P0780,5,0.975
+SUP015,Om Sai Enterprises,P0948,4,0.988
+SUP015,Om Sai Enterprises,P0949,5,0.99
+SUP016,Shree Distributors,P0023,14,0.806
+SUP016,Shree Distributors,P0104,13,0.819
+SUP016,Shree Distributors,P0110,13,0.79
+SUP016,Shree Distributors,P0170,11,0.82
+SUP016,Shree Distributors,P0191,13,0.853
+SUP016,Shree Distributors,P0233,11,0.836
+SUP016,Shree Distributors,P0265,13,0.806
+SUP016,Shree Distributors,P0342,11,0.824
+SUP016,Shree Distributors,P0347,12,0.818
+SUP016,Shree Distributors,P0388,13,0.829
+SUP016,Shree Distributors,P0420,11,0.792
+SUP016,Shree Distributors,P0503,11,0.837
+SUP016,Shree Distributors,P0544,12,0.827
+SUP016,Shree Distributors,P0577,13,0.847
+SUP016,Shree Distributors,P0599,14,0.825
+SUP016,Shree Distributors,P0614,14,0.823
+SUP016,Shree Distributors,P0758,14,0.839
+SUP016,Shree Distributors,P0785,13,0.811
+SUP016,Shree Distributors,P0810,14,0.834
+SUP016,Shree Distributors,P0883,14,0.841
+SUP016,Shree Distributors,P0937,13,0.846
+SUP017,Bharat Agencies,P0005,16,0.781
+SUP017,Bharat Agencies,P0018,15,0.736
+SUP017,Bharat Agencies,P0060,15,0.743
+SUP017,Bharat Agencies,P0129,16,0.751
+SUP017,Bharat Agencies,P0227,14,0.751
+SUP017,Bharat Agencies,P0259,15,0.775
+SUP017,Bharat Agencies,P0337,13,0.759
+SUP017,Bharat Agencies,P0389,16,0.773
+SUP017,Bharat Agencies,P0404,16,0.741
+SUP017,Bharat Agencies,P0409,13,0.75
+SUP017,Bharat Agencies,P0413,16,0.726
+SUP017,Bharat Agencies,P0510,16,0.742
+SUP017,Bharat Agencies,P0511,15,0.752
+SUP017,Bharat Agencies,P0535,15,0.729
+SUP017,Bharat Agencies,P0590,15,0.772
+SUP017,Bharat Agencies,P0628,14,0.759
+SUP017,Bharat Agencies,P0664,13,0.713
+SUP017,Bharat Agencies,P0726,15,0.746
+SUP017,Bharat Agencies,P0733,13,0.71
+SUP017,Bharat Agencies,P0744,14,0.764
+SUP017,Bharat Agencies,P0759,16,0.739
+SUP017,Bharat Agencies,P0766,13,0.743
+SUP017,Bharat Agencies,P0769,14,0.75
+SUP017,Bharat Agencies,P0841,15,0.76
+SUP017,Bharat Agencies,P0894,13,0.748
+SUP017,Bharat Agencies,P0903,14,0.747
+SUP018,Pioneer Wholesale,P0009,6,0.968
+SUP018,Pioneer Wholesale,P0026,6,0.99
+SUP018,Pioneer Wholesale,P0071,6,0.982
+SUP018,Pioneer Wholesale,P0084,6,0.964
+SUP018,Pioneer Wholesale,P0115,5,0.969
+SUP018,Pioneer Wholesale,P0192,5,0.983
+SUP018,Pioneer Wholesale,P0195,4,0.94
+SUP018,Pioneer Wholesale,P0206,7,0.944
+SUP018,Pioneer Wholesale,P0207,6,0.947
+SUP018,Pioneer Wholesale,P0209,5,0.954
+SUP018,Pioneer Wholesale,P0213,4,0.986
+SUP018,Pioneer Wholesale,P0255,5,0.981
+SUP018,Pioneer Wholesale,P0310,6,0.953
+SUP018,Pioneer Wholesale,P0332,7,0.971
+SUP018,Pioneer Wholesale,P0352,6,0.938
+SUP018,Pioneer Wholesale,P0437,5,0.956
+SUP018,Pioneer Wholesale,P0444,5,0.942
+SUP018,Pioneer Wholesale,P0474,7,0.99
+SUP018,Pioneer Wholesale,P0482,4,0.943
+SUP018,Pioneer Wholesale,P0488,6,0.957
+SUP018,Pioneer Wholesale,P0523,5,0.96
+SUP018,Pioneer Wholesale,P0536,5,0.972
+SUP018,Pioneer Wholesale,P0538,7,0.962
+SUP018,Pioneer Wholesale,P0556,7,0.948
+SUP018,Pioneer Wholesale,P0587,6,0.976
+SUP018,Pioneer Wholesale,P0589,6,0.977
+SUP018,Pioneer Wholesale,P0619,6,0.951
+SUP018,Pioneer Wholesale,P0682,4,0.961
+SUP018,Pioneer Wholesale,P0798,7,0.915
+SUP018,Pioneer Wholesale,P0828,6,0.959
+SUP018,Pioneer Wholesale,P0851,7,0.968
+SUP018,Pioneer Wholesale,P0888,7,0.929
+SUP018,Pioneer Wholesale,P0889,5,0.968
+SUP018,Pioneer Wholesale,P0902,7,0.944
+SUP018,Pioneer Wholesale,P0926,5,0.984
+SUP018,Pioneer Wholesale,P0941,4,0.978
+SUP018,Pioneer Wholesale,P0943,4,0.961
+SUP018,Pioneer Wholesale,P0946,5,0.987
+SUP018,Pioneer Wholesale,P0953,7,0.959
+SUP018,Pioneer Wholesale,P0971,7,0.938
+SUP018,Pioneer Wholesale,P0980,7,0.961
+SUP019,Bharat Enterprises,P0033,8,0.837
+SUP019,Bharat Enterprises,P0041,7,0.836
+SUP019,Bharat Enterprises,P0068,6,0.819
+SUP019,Bharat Enterprises,P0097,8,0.824
+SUP019,Bharat Enterprises,P0108,9,0.814
+SUP019,Bharat Enterprises,P0134,7,0.815
+SUP019,Bharat Enterprises,P0220,9,0.796
+SUP019,Bharat Enterprises,P0267,7,0.847
+SUP019,Bharat Enterprises,P0277,6,0.812
+SUP019,Bharat Enterprises,P0314,9,0.808
+SUP019,Bharat Enterprises,P0315,6,0.818
+SUP019,Bharat Enterprises,P0330,7,0.808
+SUP019,Bharat Enterprises,P0401,6,0.809
+SUP019,Bharat Enterprises,P0480,8,0.811
+SUP019,Bharat Enterprises,P0514,9,0.847
+SUP019,Bharat Enterprises,P0517,9,0.805
+SUP019,Bharat Enterprises,P0522,6,0.801
+SUP019,Bharat Enterprises,P0526,6,0.86
+SUP019,Bharat Enterprises,P0530,9,0.805
+SUP019,Bharat Enterprises,P0533,6,0.833
+SUP019,Bharat Enterprises,P0580,8,0.82
+SUP019,Bharat Enterprises,P0660,7,0.813
+SUP019,Bharat Enterprises,P0669,9,0.82
+SUP019,Bharat Enterprises,P0670,8,0.825
+SUP019,Bharat Enterprises,P0676,6,0.791
+SUP019,Bharat Enterprises,P0702,9,0.822
+SUP019,Bharat Enterprises,P0823,8,0.798
+SUP019,Bharat Enterprises,P0839,8,0.804
+SUP019,Bharat Enterprises,P0891,7,0.811
+SUP019,Bharat Enterprises,P0910,7,0.834
+SUP019,Bharat Enterprises,P0919,7,0.83
+SUP019,Bharat Enterprises,P0932,9,0.825
+SUP019,Bharat Enterprises,P0978,9,0.836
+SUP019,Bharat Enterprises,P0987,8,0.813
+SUP020,Deccan Agencies,P0017,8,0.834
+SUP020,Deccan Agencies,P0057,5,0.842
+SUP020,Deccan Agencies,P0058,8,0.826
+SUP020,Deccan Agencies,P0067,5,0.832
+SUP020,Deccan Agencies,P0088,8,0.863
+SUP020,Deccan Agencies,P0090,7,0.873
+SUP020,Deccan Agencies,P0111,8,0.84
+SUP020,Deccan Agencies,P0114,5,0.839
+SUP020,Deccan Agencies,P0130,7,0.843
+SUP020,Deccan Agencies,P0142,7,0.824
+SUP020,Deccan Agencies,P0144,7,0.807
+SUP020,Deccan Agencies,P0148,6,0.827
+SUP020,Deccan Agencies,P0183,7,0.852
+SUP020,Deccan Agencies,P0197,5,0.847
+SUP020,Deccan Agencies,P0210,8,0.839
+SUP020,Deccan Agencies,P0222,7,0.825
+SUP020,Deccan Agencies,P0228,8,0.81
+SUP020,Deccan Agencies,P0260,5,0.818
+SUP020,Deccan Agencies,P0274,6,0.824
+SUP020,Deccan Agencies,P0278,6,0.819
+SUP020,Deccan Agencies,P0285,6,0.838
+SUP020,Deccan Agencies,P0304,6,0.818
+SUP020,Deccan Agencies,P0354,7,0.864
+SUP020,Deccan Agencies,P0384,8,0.846
+SUP020,Deccan Agencies,P0438,7,0.86
+SUP020,Deccan Agencies,P0470,5,0.811
+SUP020,Deccan Agencies,P0483,7,0.831
+SUP020,Deccan Agencies,P0487,7,0.825
+SUP020,Deccan Agencies,P0505,8,0.842
+SUP020,Deccan Agencies,P0509,5,0.787
+SUP020,Deccan Agencies,P0551,5,0.866
+SUP020,Deccan Agencies,P0581,6,0.85
+SUP020,Deccan Agencies,P0594,8,0.83
+SUP020,Deccan Agencies,P0611,5,0.826
+SUP020,Deccan Agencies,P0672,8,0.862
+SUP020,Deccan Agencies,P0698,5,0.847
+SUP020,Deccan Agencies,P0706,5,0.834
+SUP020,Deccan Agencies,P0710,8,0.855
+SUP020,Deccan Agencies,P0721,5,0.862
+SUP020,Deccan Agencies,P0730,7,0.855
+SUP020,Deccan Agencies,P0745,5,0.846
+SUP020,Deccan Agencies,P0754,7,0.818
+SUP020,Deccan Agencies,P0772,5,0.839
+SUP020,Deccan Agencies,P0783,7,0.83
+SUP020,Deccan Agencies,P0832,6,0.856
+SUP020,Deccan Agencies,P0840,8,0.87
+SUP020,Deccan Agencies,P0843,7,0.812
+SUP020,Deccan Agencies,P0904,5,0.857
+SUP020,Deccan Agencies,P0907,7,0.838
+SUP020,Deccan Agencies,P0929,7,0.883
+SUP020,Deccan Agencies,P0951,6,0.837
+SUP020,Deccan Agencies,P0959,8,0.874
+SUP020,Deccan Agencies,P0979,8,0.883
+SUP021,National Supply Co.,P0004,8,0.873
+SUP021,National Supply Co.,P0043,8,0.855
+SUP021,National Supply Co.,P0122,6,0.83
+SUP021,National Supply Co.,P0186,6,0.88
+SUP021,National Supply Co.,P0223,8,0.852
+SUP021,National Supply Co.,P0229,7,0.87
+SUP021,National Supply Co.,P0275,9,0.826
+SUP021,National Supply Co.,P0326,6,0.853
+SUP021,National Supply Co.,P0329,6,0.873
+SUP021,National Supply Co.,P0336,8,0.853
+SUP021,National Supply Co.,P0338,9,0.845
+SUP021,National Supply Co.,P0387,8,0.861
+SUP021,National Supply Co.,P0411,9,0.855
+SUP021,National Supply Co.,P0412,8,0.819
+SUP021,National Supply Co.,P0421,7,0.827
+SUP021,National Supply Co.,P0425,8,0.866
+SUP021,National Supply Co.,P0433,8,0.815
+SUP021,National Supply Co.,P0450,8,0.856
+SUP021,National Supply Co.,P0453,6,0.864
+SUP021,National Supply Co.,P0467,9,0.819
+SUP021,National Supply Co.,P0493,9,0.843
+SUP021,National Supply Co.,P0498,9,0.821
+SUP021,National Supply Co.,P0531,7,0.821
+SUP021,National Supply Co.,P0566,7,0.857
+SUP021,National Supply Co.,P0598,8,0.861
+SUP021,National Supply Co.,P0600,8,0.852
+SUP021,National Supply Co.,P0666,9,0.844
+SUP021,National Supply Co.,P0674,8,0.835
+SUP021,National Supply Co.,P0784,6,0.853
+SUP021,National Supply Co.,P0807,6,0.832
+SUP021,National Supply Co.,P0848,7,0.849
+SUP022,Metro Traders,P0025,14,0.855
+SUP022,Metro Traders,P0046,13,0.845
+SUP022,Metro Traders,P0083,12,0.875
+SUP022,Metro Traders,P0185,11,0.872
+SUP022,Metro Traders,P0189,11,0.874
+SUP022,Metro Traders,P0201,13,0.832
+SUP022,Metro Traders,P0214,14,0.845
+SUP022,Metro Traders,P0327,14,0.84
+SUP022,Metro Traders,P0345,13,0.843
+SUP022,Metro Traders,P0346,13,0.85
+SUP022,Metro Traders,P0367,12,0.848
+SUP022,Metro Traders,P0403,14,0.854
+SUP022,Metro Traders,P0426,13,0.858
+SUP022,Metro Traders,P0430,12,0.856
+SUP022,Metro Traders,P0495,13,0.885
+SUP022,Metro Traders,P0567,12,0.842
+SUP022,Metro Traders,P0617,14,0.825
+SUP022,Metro Traders,P0630,13,0.834
+SUP022,Metro Traders,P0639,13,0.863
+SUP022,Metro Traders,P0787,14,0.88
+SUP022,Metro Traders,P0789,13,0.866
+SUP022,Metro Traders,P0868,12,0.818
+SUP022,Metro Traders,P0895,13,0.843
+SUP022,Metro Traders,P0935,14,0.861
+SUP022,Metro Traders,P0992,13,0.854
+SUP022,Metro Traders,P0993,13,0.854
+SUP023,Bharat Supply Co.,P0194,7,0.934
+SUP023,Bharat Supply Co.,P0280,4,0.954
+SUP023,Bharat Supply Co.,P0325,5,0.941
+SUP023,Bharat Supply Co.,P0370,5,0.936
+SUP023,Bharat Supply Co.,P0390,5,0.944
+SUP023,Bharat Supply Co.,P0408,5,0.92
+SUP023,Bharat Supply Co.,P0441,5,0.948
+SUP023,Bharat Supply Co.,P0508,7,0.956
+SUP023,Bharat Supply Co.,P0521,6,0.959
+SUP023,Bharat Supply Co.,P0692,6,0.928
+SUP023,Bharat Supply Co.,P0743,4,0.959
+SUP023,Bharat Supply Co.,P0817,4,0.924
+SUP023,Bharat Supply Co.,P0846,5,0.955
+SUP023,Bharat Supply Co.,P0876,7,0.966
+SUP023,Bharat Supply Co.,P0912,6,0.925
+SUP023,Bharat Supply Co.,P0922,4,0.911
+SUP024,Om Sai Agencies,P0006,4,0.98
+SUP024,Om Sai Agencies,P0032,3,0.948
+SUP024,Om Sai Agencies,P0100,3,0.99
+SUP024,Om Sai Agencies,P0104,4,0.937
+SUP024,Om Sai Agencies,P0137,5,0.943
+SUP024,Om Sai Agencies,P0178,6,0.961
+SUP024,Om Sai Agencies,P0191,5,0.944
+SUP024,Om Sai Agencies,P0224,6,0.99
+SUP024,Om Sai Agencies,P0235,4,0.93
+SUP024,Om Sai Agencies,P0296,3,0.961
+SUP024,Om Sai Agencies,P0297,4,0.941
+SUP024,Om Sai Agencies,P0320,6,0.937
+SUP024,Om Sai Agencies,P0386,3,0.961
+SUP024,Om Sai Agencies,P0431,6,0.952
+SUP024,Om Sai Agencies,P0457,3,0.964
+SUP024,Om Sai Agencies,P0468,5,0.954
+SUP024,Om Sai Agencies,P0541,3,0.975
+SUP024,Om Sai Agencies,P0585,3,0.954
+SUP024,Om Sai Agencies,P0603,5,0.961
+SUP024,Om Sai Agencies,P0623,6,0.977
+SUP024,Om Sai Agencies,P0677,3,0.966
+SUP024,Om Sai Agencies,P0695,6,0.95
+SUP024,Om Sai Agencies,P0720,6,0.907
+SUP024,Om Sai Agencies,P0782,6,0.93
+SUP024,Om Sai Agencies,P0873,3,0.974
+SUP024,Om Sai Agencies,P0913,3,0.957
+SUP024,Om Sai Agencies,P0955,4,0.958
+SUP024,Om Sai Agencies,P0965,5,0.927
+SUP025,Om Sai Imports,P0086,17,0.736
+SUP025,Om Sai Imports,P0150,16,0.72
+SUP025,Om Sai Imports,P0164,15,0.708
+SUP025,Om Sai Imports,P0176,17,0.725
+SUP025,Om Sai Imports,P0239,15,0.717
+SUP025,Om Sai Imports,P0258,16,0.727
+SUP025,Om Sai Imports,P0271,17,0.727
+SUP025,Om Sai Imports,P0273,16,0.712
+SUP025,Om Sai Imports,P0337,16,0.727
+SUP025,Om Sai Imports,P0339,18,0.705
+SUP025,Om Sai Imports,P0413,15,0.737
+SUP025,Om Sai Imports,P0423,17,0.715
+SUP025,Om Sai Imports,P0455,18,0.745
+SUP025,Om Sai Imports,P0510,16,0.728
+SUP025,Om Sai Imports,P0513,18,0.711
+SUP025,Om Sai Imports,P0519,18,0.737
+SUP025,Om Sai Imports,P0568,17,0.731
+SUP025,Om Sai Imports,P0583,15,0.711
+SUP025,Om Sai Imports,P0635,15,0.744
+SUP025,Om Sai Imports,P0681,17,0.729
+SUP025,Om Sai Imports,P0725,18,0.721
+SUP025,Om Sai Imports,P0741,15,0.706
+SUP025,Om Sai Imports,P0794,16,0.734
+SUP025,Om Sai Imports,P0797,18,0.737
+SUP025,Om Sai Imports,P0821,16,0.744
+SUP025,Om Sai Imports,P0869,17,0.729
+SUP025,Om Sai Imports,P0908,18,0.717
+SUP025,Om Sai Imports,P0917,16,0.731
+SUP025,Om Sai Imports,P0972,17,0.739
+SUP026,Deccan Traders,P0026,7,0.956
+SUP026,Deccan Traders,P0036,9,0.962
+SUP026,Deccan Traders,P0074,6,0.934
+SUP026,Deccan Traders,P0103,7,0.948
+SUP026,Deccan Traders,P0112,6,0.949
+SUP026,Deccan Traders,P0146,6,0.947
+SUP026,Deccan Traders,P0196,7,0.978
+SUP026,Deccan Traders,P0302,7,0.968
+SUP026,Deccan Traders,P0341,9,0.955
+SUP026,Deccan Traders,P0375,6,0.974
+SUP026,Deccan Traders,P0376,9,0.966
+SUP026,Deccan Traders,P0444,8,0.968
+SUP026,Deccan Traders,P0454,6,0.95
+SUP026,Deccan Traders,P0456,8,0.957
+SUP026,Deccan Traders,P0523,9,0.954
+SUP026,Deccan Traders,P0553,6,0.983
+SUP026,Deccan Traders,P0556,9,0.979
+SUP026,Deccan Traders,P0562,6,0.957
+SUP026,Deccan Traders,P0619,7,0.927
+SUP026,Deccan Traders,P0654,6,0.975
+SUP026,Deccan Traders,P0671,6,0.928
+SUP026,Deccan Traders,P0682,9,0.937
+SUP026,Deccan Traders,P0727,8,0.973
+SUP026,Deccan Traders,P0753,9,0.904
+SUP026,Deccan Traders,P0806,9,0.959
+SUP026,Deccan Traders,P0808,8,0.908
+SUP026,Deccan Traders,P0855,9,0.984
+SUP026,Deccan Traders,P0885,9,0.951
+SUP026,Deccan Traders,P0893,6,0.977
+SUP026,Deccan Traders,P0898,9,0.986
+SUP026,Deccan Traders,P0926,7,0.935
+SUP026,Deccan Traders,P0938,8,0.964
+SUP026,Deccan Traders,P0985,6,0.957
+SUP027,Elite Logistics,P0002,11,0.911
+SUP027,Elite Logistics,P0011,11,0.877
+SUP027,Elite Logistics,P0015,14,0.864
+SUP027,Elite Logistics,P0033,11,0.873
+SUP027,Elite Logistics,P0048,14,0.881
+SUP027,Elite Logistics,P0076,12,0.892
+SUP027,Elite Logistics,P0077,11,0.853
+SUP027,Elite Logistics,P0107,14,0.887
+SUP027,Elite Logistics,P0127,12,0.854
+SUP027,Elite Logistics,P0149,12,0.87
+SUP027,Elite Logistics,P0157,13,0.912
+SUP027,Elite Logistics,P0221,14,0.834
+SUP027,Elite Logistics,P0225,14,0.878
+SUP027,Elite Logistics,P0232,12,0.838
+SUP027,Elite Logistics,P0248,11,0.86
+SUP027,Elite Logistics,P0286,12,0.857
+SUP027,Elite Logistics,P0307,11,0.851
+SUP027,Elite Logistics,P0315,11,0.844
+SUP027,Elite Logistics,P0319,12,0.838
+SUP027,Elite Logistics,P0374,11,0.852
+SUP027,Elite Logistics,P0378,11,0.866
+SUP027,Elite Logistics,P0385,12,0.858
+SUP027,Elite Logistics,P0471,11,0.863
+SUP027,Elite Logistics,P0477,11,0.87
+SUP027,Elite Logistics,P0481,11,0.877
+SUP027,Elite Logistics,P0494,11,0.885
+SUP027,Elite Logistics,P0507,13,0.881
+SUP027,Elite Logistics,P0530,12,0.911
+SUP027,Elite Logistics,P0547,13,0.872
+SUP027,Elite Logistics,P0550,12,0.854
+SUP027,Elite Logistics,P0557,12,0.868
+SUP027,Elite Logistics,P0571,11,0.871
+SUP027,Elite Logistics,P0593,13,0.871
+SUP027,Elite Logistics,P0615,14,0.872
+SUP027,Elite Logistics,P0618,11,0.84
+SUP027,Elite Logistics,P0634,12,0.83
+SUP027,Elite Logistics,P0651,14,0.845
+SUP027,Elite Logistics,P0656,12,0.864
+SUP027,Elite Logistics,P0661,12,0.896
+SUP027,Elite Logistics,P0665,13,0.896
+SUP027,Elite Logistics,P0687,12,0.854
+SUP027,Elite Logistics,P0694,14,0.872
+SUP027,Elite Logistics,P0738,11,0.886
+SUP027,Elite Logistics,P0747,11,0.864
+SUP027,Elite Logistics,P0786,13,0.873
+SUP027,Elite Logistics,P0793,13,0.862
+SUP027,Elite Logistics,P0823,12,0.854
+SUP027,Elite Logistics,P0887,12,0.859
+SUP027,Elite Logistics,P0919,12,0.9
+SUP027,Elite Logistics,P0944,13,0.857
+SUP027,Elite Logistics,P0950,11,0.866
+SUP027,Elite Logistics,P0975,13,0.869
+SUP027,Elite Logistics,P1000,14,0.848
+SUP028,Sunrise Wholesale,P0010,5,0.926
+SUP028,Sunrise Wholesale,P0062,6,0.985
+SUP028,Sunrise Wholesale,P0114,3,0.963
+SUP028,Sunrise Wholesale,P0121,6,0.966
+SUP028,Sunrise Wholesale,P0126,3,0.972
+SUP028,Sunrise Wholesale,P0133,4,0.99
+SUP028,Sunrise Wholesale,P0142,3,0.953
+SUP028,Sunrise Wholesale,P0144,4,0.983
+SUP028,Sunrise Wholesale,P0165,5,0.972
+SUP028,Sunrise Wholesale,P0172,5,0.944
+SUP028,Sunrise Wholesale,P0210,3,0.983
+SUP028,Sunrise Wholesale,P0222,5,0.941
+SUP028,Sunrise Wholesale,P0234,5,0.966
+SUP028,Sunrise Wholesale,P0324,6,0.963
+SUP028,Sunrise Wholesale,P0349,4,0.958
+SUP028,Sunrise Wholesale,P0353,6,0.99
+SUP028,Sunrise Wholesale,P0355,5,0.94
+SUP028,Sunrise Wholesale,P0381,6,0.965
+SUP028,Sunrise Wholesale,P0393,5,0.962
+SUP028,Sunrise Wholesale,P0487,6,0.948
+SUP028,Sunrise Wholesale,P0504,6,0.99
+SUP028,Sunrise Wholesale,P0551,4,0.978
+SUP028,Sunrise Wholesale,P0601,5,0.99
+SUP028,Sunrise Wholesale,P0648,5,0.98
+SUP028,Sunrise Wholesale,P0659,3,0.969
+SUP028,Sunrise Wholesale,P0678,5,0.99
+SUP028,Sunrise Wholesale,P0690,5,0.99
+SUP028,Sunrise Wholesale,P0760,5,0.965
+SUP028,Sunrise Wholesale,P0773,4,0.944
+SUP028,Sunrise Wholesale,P0809,6,0.973
+SUP028,Sunrise Wholesale,P0818,5,0.986
+SUP028,Sunrise Wholesale,P0860,4,0.96
+SUP028,Sunrise Wholesale,P0880,4,0.99
+SUP028,Sunrise Wholesale,P0884,5,0.934
+SUP028,Sunrise Wholesale,P0900,3,0.942
+SUP028,Sunrise Wholesale,P0920,4,0.984
+SUP028,Sunrise Wholesale,P0977,6,0.988
+SUP028,Sunrise Wholesale,P0984,6,0.99
+SUP029,Vardhman Logistics,P0040,18,0.645
+SUP029,Vardhman Logistics,P0049,19,0.677
+SUP029,Vardhman Logistics,P0061,18,0.717
+SUP029,Vardhman Logistics,P0078,20,0.699
+SUP029,Vardhman Logistics,P0081,18,0.675
+SUP029,Vardhman Logistics,P0102,21,0.7
+SUP029,Vardhman Logistics,P0106,20,0.691
+SUP029,Vardhman Logistics,P0156,19,0.694
+SUP029,Vardhman Logistics,P0215,20,0.686
+SUP029,Vardhman Logistics,P0300,20,0.695
+SUP029,Vardhman Logistics,P0318,19,0.705
+SUP029,Vardhman Logistics,P0338,21,0.67
+SUP029,Vardhman Logistics,P0391,20,0.717
+SUP029,Vardhman Logistics,P0394,20,0.689
+SUP029,Vardhman Logistics,P0440,18,0.705
+SUP029,Vardhman Logistics,P0446,19,0.686
+SUP029,Vardhman Logistics,P0448,18,0.705
+SUP029,Vardhman Logistics,P0460,20,0.651
+SUP029,Vardhman Logistics,P0492,20,0.691
+SUP029,Vardhman Logistics,P0532,18,0.696
+SUP029,Vardhman Logistics,P0564,21,0.659
+SUP029,Vardhman Logistics,P0586,21,0.686
+SUP029,Vardhman Logistics,P0638,20,0.716
+SUP029,Vardhman Logistics,P0653,21,0.709
+SUP029,Vardhman Logistics,P0685,20,0.679
+SUP029,Vardhman Logistics,P0712,20,0.684
+SUP029,Vardhman Logistics,P0719,21,0.685
+SUP029,Vardhman Logistics,P0736,19,0.726
+SUP029,Vardhman Logistics,P0777,18,0.673
+SUP029,Vardhman Logistics,P0800,19,0.668
+SUP029,Vardhman Logistics,P0824,18,0.675
+SUP029,Vardhman Logistics,P0831,18,0.71
+SUP029,Vardhman Logistics,P0875,18,0.689
+SUP029,Vardhman Logistics,P0890,21,0.689
+SUP029,Vardhman Logistics,P0976,19,0.687
+SUP029,Vardhman Logistics,P0991,19,0.658
+SUP030,Apex Supply Co.,P0001,6,0.952
+SUP030,Apex Supply Co.,P0046,8,0.914
+SUP030,Apex Supply Co.,P0064,8,0.954
+SUP030,Apex Supply Co.,P0080,9,0.93
+SUP030,Apex Supply Co.,P0117,7,0.953
+SUP030,Apex Supply Co.,P0139,6,0.974
+SUP030,Apex Supply Co.,P0180,8,0.927
+SUP030,Apex Supply Co.,P0236,8,0.939
+SUP030,Apex Supply Co.,P0256,7,0.929
+SUP030,Apex Supply Co.,P0257,8,0.944
+SUP030,Apex Supply Co.,P0301,9,0.908
+SUP030,Apex Supply Co.,P0331,8,0.959
+SUP030,Apex Supply Co.,P0432,8,0.939
+SUP030,Apex Supply Co.,P0459,8,0.937
+SUP030,Apex Supply Co.,P0506,9,0.943
+SUP030,Apex Supply Co.,P0518,6,0.986
+SUP030,Apex Supply Co.,P0529,6,0.959
+SUP030,Apex Supply Co.,P0549,8,0.947
+SUP030,Apex Supply Co.,P0574,6,0.922
+SUP030,Apex Supply Co.,P0606,7,0.938
+SUP030,Apex Supply Co.,P0617,9,0.943
+SUP030,Apex Supply Co.,P0641,9,0.95
+SUP030,Apex Supply Co.,P0708,6,0.943
+SUP030,Apex Supply Co.,P0749,8,0.944
+SUP030,Apex Supply Co.,P0801,8,0.935
+SUP030,Apex Supply Co.,P0842,7,0.931
+SUP030,Apex Supply Co.,P0861,6,0.921
+SUP030,Apex Supply Co.,P0911,7,0.959
+SUP030,Apex Supply Co.,P0982,9,0.949
+SUP030,Apex Supply Co.,P0990,9,0.947
+SUP031,National Enterprises,P0014,5,0.813
+SUP031,National Enterprises,P0024,7,0.834
+SUP031,National Enterprises,P0042,8,0.843
+SUP031,National Enterprises,P0152,5,0.798
+SUP031,National Enterprises,P0179,8,0.854
+SUP031,National Enterprises,P0181,8,0.831
+SUP031,National Enterprises,P0246,6,0.853
+SUP031,National Enterprises,P0295,7,0.836
+SUP031,National Enterprises,P0334,8,0.845
+SUP031,National Enterprises,P0370,8,0.789
+SUP031,National Enterprises,P0397,6,0.857
+SUP031,National Enterprises,P0406,5,0.834
+SUP031,National Enterprises,P0502,6,0.827
+SUP031,National Enterprises,P0520,5,0.841
+SUP031,National Enterprises,P0563,5,0.838
+SUP031,National Enterprises,P0579,8,0.823
+SUP031,National Enterprises,P0640,5,0.82
+SUP031,National Enterprises,P0646,8,0.84
+SUP031,National Enterprises,P0662,8,0.803
+SUP031,National Enterprises,P0743,6,0.823
+SUP031,National Enterprises,P0774,6,0.846
+SUP031,National Enterprises,P0825,8,0.857
+SUP031,National Enterprises,P0928,6,0.804
+SUP031,National Enterprises,P0949,7,0.837
+SUP032,Apex Enterprises,P0012,13,0.813
+SUP032,Apex Enterprises,P0100,13,0.825
+SUP032,Apex Enterprises,P0143,12,0.821
+SUP032,Apex Enterprises,P0233,11,0.784
+SUP032,Apex Enterprises,P0293,12,0.8
+SUP032,Apex Enterprises,P0296,12,0.798
+SUP032,Apex Enterprises,P0340,13,0.829
+SUP032,Apex Enterprises,P0342,12,0.816
+SUP032,Apex Enterprises,P0377,11,0.823
+SUP032,Apex Enterprises,P0402,13,0.813
+SUP032,Apex Enterprises,P0410,12,0.805
+SUP032,Apex Enterprises,P0420,11,0.811
+SUP032,Apex Enterprises,P0463,14,0.793
+SUP032,Apex Enterprises,P0544,12,0.801
+SUP032,Apex Enterprises,P0554,12,0.797
+SUP032,Apex Enterprises,P0591,13,0.816
+SUP032,Apex Enterprises,P0623,13,0.812
+SUP032,Apex Enterprises,P0631,14,0.814
+SUP032,Apex Enterprises,P0688,14,0.777
+SUP032,Apex Enterprises,P0850,12,0.8
+SUP032,Apex Enterprises,P0914,12,0.799
+SUP032,Apex Enterprises,P0916,12,0.834
+SUP032,Apex Enterprises,P0967,14,0.836
+SUP032,Apex Enterprises,P0986,12,0.825
+SUP032,Apex Enterprises,P0999,11,0.824
+SUP033,Elite Traders,P0075,6,0.931
+SUP033,Elite Traders,P0098,3,0.948
+SUP033,Elite Traders,P0109,6,0.968
+SUP033,Elite Traders,P0136,3,0.967
+SUP033,Elite Traders,P0150,4,0.903
+SUP033,Elite Traders,P0155,5,0.977
+SUP033,Elite Traders,P0161,5,0.978
+SUP033,Elite Traders,P0239,3,0.958
+SUP033,Elite Traders,P0240,5,0.938
+SUP033,Elite Traders,P0273,6,0.926
+SUP033,Elite Traders,P0292,3,0.938
+SUP033,Elite Traders,P0294,4,0.947
+SUP033,Elite Traders,P0350,5,0.926
+SUP033,Elite Traders,P0364,6,0.938
+SUP033,Elite Traders,P0395,6,0.943
+SUP033,Elite Traders,P0415,5,0.937
+SUP033,Elite Traders,P0422,6,0.935
+SUP033,Elite Traders,P0424,4,0.973
+SUP033,Elite Traders,P0429,5,0.936
+SUP033,Elite Traders,P0449,3,0.968
+SUP033,Elite Traders,P0535,5,0.925
+SUP033,Elite Traders,P0548,6,0.943
+SUP033,Elite Traders,P0561,5,0.924
+SUP033,Elite Traders,P0568,3,0.961
+SUP033,Elite Traders,P0608,3,0.924
+SUP033,Elite Traders,P0628,4,0.934
+SUP033,Elite Traders,P0636,6,0.961
+SUP033,Elite Traders,P0647,3,0.906
+SUP033,Elite Traders,P0718,6,0.975
+SUP033,Elite Traders,P0723,4,0.907
+SUP033,Elite Traders,P0742,3,0.931
+SUP033,Elite Traders,P0744,6,0.925
+SUP033,Elite Traders,P0811,4,0.926
+SUP033,Elite Traders,P0821,5,0.957
+SUP033,Elite Traders,P0973,4,0.95
+SUP033,Elite Traders,P0988,5,0.928
+SUP033,Elite Traders,P0998,3,0.938
+SUP034,Reliable Enterprises,P0016,20,0.695
+SUP034,Reliable Enterprises,P0037,21,0.684
+SUP034,Reliable Enterprises,P0050,20,0.678
+SUP034,Reliable Enterprises,P0059,20,0.66
+SUP034,Reliable Enterprises,P0074,21,0.683
+SUP034,Reliable Enterprises,P0091,18,0.706
+SUP034,Reliable Enterprises,P0173,20,0.694
+SUP034,Reliable Enterprises,P0175,20,0.684
+SUP034,Reliable Enterprises,P0193,21,0.677
+SUP034,Reliable Enterprises,P0196,18,0.666
+SUP034,Reliable Enterprises,P0254,18,0.697
+SUP034,Reliable Enterprises,P0266,19,0.668
+SUP034,Reliable Enterprises,P0283,19,0.662
+SUP034,Reliable Enterprises,P0335,20,0.686
+SUP034,Reliable Enterprises,P0352,21,0.679
+SUP034,Reliable Enterprises,P0376,19,0.671
+SUP034,Reliable Enterprises,P0392,19,0.706
+SUP034,Reliable Enterprises,P0436,21,0.68
+SUP034,Reliable Enterprises,P0442,21,0.694
+SUP034,Reliable Enterprises,P0454,18,0.699
+SUP034,Reliable Enterprises,P0644,19,0.654
+SUP034,Reliable Enterprises,P0663,21,0.656
+SUP034,Reliable Enterprises,P0716,19,0.657
+SUP034,Reliable Enterprises,P0756,18,0.662
+SUP034,Reliable Enterprises,P0762,19,0.664
+SUP034,Reliable Enterprises,P0764,18,0.696
+SUP034,Reliable Enterprises,P0767,21,0.649
+SUP034,Reliable Enterprises,P0852,21,0.679
+SUP034,Reliable Enterprises,P0925,19,0.676
+SUP034,Reliable Enterprises,P0936,18,0.67
+SUP034,Reliable Enterprises,P0964,21,0.685
+SUP034,Reliable Enterprises,P0970,20,0.69
+SUP034,Reliable Enterprises,P0971,20,0.704
+SUP034,Reliable Enterprises,P0980,18,0.664
+SUP034,Reliable Enterprises,P0994,18,0.659
+SUP035,Galaxy Distributors,P0015,19,0.782
+SUP035,Galaxy Distributors,P0095,20,0.755
+SUP035,Galaxy Distributors,P0119,19,0.757
+SUP035,Galaxy Distributors,P0147,22,0.757
+SUP035,Galaxy Distributors,P0177,19,0.715
+SUP035,Galaxy Distributors,P0200,21,0.748
+SUP035,Galaxy Distributors,P0250,20,0.737
+SUP035,Galaxy Distributors,P0263,22,0.727
+SUP035,Galaxy Distributors,P0288,21,0.744
+SUP035,Galaxy Distributors,P0323,22,0.758
+SUP035,Galaxy Distributors,P0366,19,0.747
+SUP035,Galaxy Distributors,P0400,19,0.738
+SUP035,Galaxy Distributors,P0445,19,0.741
+SUP035,Galaxy Distributors,P0464,20,0.729
+SUP035,Galaxy Distributors,P0499,21,0.713
+SUP035,Galaxy Distributors,P0515,20,0.753
+SUP035,Galaxy Distributors,P0522,21,0.732
+SUP035,Galaxy Distributors,P0588,21,0.731
+SUP035,Galaxy Distributors,P0592,19,0.714
+SUP035,Galaxy Distributors,P0596,20,0.762
+SUP035,Galaxy Distributors,P0626,22,0.732
+SUP035,Galaxy Distributors,P0661,21,0.729
+SUP035,Galaxy Distributors,P0680,21,0.722
+SUP035,Galaxy Distributors,P0686,20,0.693
+SUP035,Galaxy Distributors,P0691,20,0.781
+SUP035,Galaxy Distributors,P0700,19,0.755
+SUP035,Galaxy Distributors,P0705,21,0.718
+SUP035,Galaxy Distributors,P0709,19,0.765
+SUP035,Galaxy Distributors,P0734,19,0.717
+SUP035,Galaxy Distributors,P0788,21,0.741
+SUP035,Galaxy Distributors,P0833,22,0.78
+SUP035,Galaxy Distributors,P0844,20,0.7
+SUP035,Galaxy Distributors,P0859,21,0.766
+SUP035,Galaxy Distributors,P0881,20,0.764
+SUP035,Galaxy Distributors,P0897,20,0.745
+SUP035,Galaxy Distributors,P0931,20,0.748
+SUP035,Galaxy Distributors,P0962,21,0.733
+SUP035,Galaxy Distributors,P0989,19,0.726
+SUP036,Shree Traders,P0027,12,0.796
+SUP036,Shree Traders,P0066,12,0.812
+SUP036,Shree Traders,P0090,10,0.844
+SUP036,Shree Traders,P0133,12,0.853
+SUP036,Shree Traders,P0138,11,0.832
+SUP036,Shree Traders,P0145,10,0.798
+SUP036,Shree Traders,P0154,9,0.854
+SUP036,Shree Traders,P0197,11,0.838
+SUP036,Shree Traders,P0203,9,0.777
+SUP036,Shree Traders,P0274,11,0.847
+SUP036,Shree Traders,P0285,11,0.796
+SUP036,Shree Traders,P0289,9,0.804
+SUP036,Shree Traders,P0324,12,0.829
+SUP036,Shree Traders,P0344,11,0.832
+SUP036,Shree Traders,P0355,9,0.827
+SUP036,Shree Traders,P0359,11,0.808
+SUP036,Shree Traders,P0384,12,0.852
+SUP036,Shree Traders,P0399,12,0.809
+SUP036,Shree Traders,P0458,10,0.809
+SUP036,Shree Traders,P0489,9,0.844
+SUP036,Shree Traders,P0496,10,0.833
+SUP036,Shree Traders,P0500,11,0.793
+SUP036,Shree Traders,P0560,11,0.801
+SUP036,Shree Traders,P0578,10,0.862
+SUP036,Shree Traders,P0581,9,0.838
+SUP036,Shree Traders,P0622,9,0.82
+SUP036,Shree Traders,P0624,9,0.81
+SUP036,Shree Traders,P0678,9,0.819
+SUP036,Shree Traders,P0684,12,0.808
+SUP036,Shree Traders,P0696,9,0.805
+SUP036,Shree Traders,P0729,9,0.805
+SUP036,Shree Traders,P0746,11,0.799
+SUP036,Shree Traders,P0760,11,0.864
+SUP036,Shree Traders,P0804,10,0.84
+SUP036,Shree Traders,P0814,12,0.815
+SUP036,Shree Traders,P0832,10,0.83
+SUP036,Shree Traders,P0864,10,0.771
+SUP036,Shree Traders,P0901,10,0.812
+SUP036,Shree Traders,P0904,10,0.853
+SUP036,Shree Traders,P0961,9,0.814
+SUP036,Shree Traders,P0977,10,0.841
+SUP037,Bharat Distributors,P0013,9,0.908
+SUP037,Bharat Distributors,P0020,10,0.802
+SUP037,Bharat Distributors,P0065,9,0.857
+SUP037,Bharat Distributors,P0087,8,0.901
+SUP037,Bharat Distributors,P0102,7,0.866
+SUP037,Bharat Distributors,P0122,8,0.853
+SUP037,Bharat Distributors,P0326,9,0.877
+SUP037,Bharat Distributors,P0365,7,0.858
+SUP037,Bharat Distributors,P0421,9,0.843
+SUP037,Bharat Distributors,P0450,9,0.929
+SUP037,Bharat Distributors,P0534,7,0.837
+SUP037,Bharat Distributors,P0566,7,0.871
+SUP037,Bharat Distributors,P0755,10,0.834
+SUP037,Bharat Distributors,P0761,10,0.856
+SUP037,Bharat Distributors,P0770,8,0.884
+SUP037,Bharat Distributors,P0790,10,0.878
+SUP037,Bharat Distributors,P0799,8,0.87
+SUP037,Bharat Distributors,P0835,7,0.87
+SUP037,Bharat Distributors,P0848,10,0.855
+SUP037,Bharat Distributors,P0906,7,0.844
+SUP037,Bharat Distributors,P0923,7,0.908
+SUP038,Global Logistics,P0008,6,0.904
+SUP038,Global Logistics,P0105,8,0.943
+SUP038,Global Logistics,P0160,6,0.878
+SUP038,Global Logistics,P0189,7,0.955
+SUP038,Global Logistics,P0238,7,0.916
+SUP038,Global Logistics,P0242,9,0.958
+SUP038,Global Logistics,P0327,7,0.948
+SUP038,Global Logistics,P0343,6,0.946
+SUP038,Global Logistics,P0357,8,0.905
+SUP038,Global Logistics,P0371,9,0.917
+SUP038,Global Logistics,P0383,6,0.923
+SUP038,Global Logistics,P0443,8,0.929
+SUP038,Global Logistics,P0574,8,0.945
+SUP038,Global Logistics,P0609,7,0.937
+SUP038,Global Logistics,P0641,9,0.939
+SUP038,Global Logistics,P0642,7,0.941
+SUP038,Global Logistics,P0697,6,0.907
+SUP038,Global Logistics,P0715,9,0.9
+SUP038,Global Logistics,P0749,8,0.922
+SUP038,Global Logistics,P0779,7,0.947
+SUP038,Global Logistics,P0857,7,0.918
+SUP038,Global Logistics,P0871,6,0.905
+SUP038,Global Logistics,P0934,8,0.93
+SUP038,Global Logistics,P0957,7,0.931
+SUP038,Global Logistics,P0993,6,0.929
+SUP039,Reliable Imports,P0024,9,0.796
+SUP039,Reliable Imports,P0045,11,0.805
+SUP039,Reliable Imports,P0073,10,0.787
+SUP039,Reliable Imports,P0167,11,0.789
+SUP039,Reliable Imports,P0194,8,0.823
+SUP039,Reliable Imports,P0198,8,0.811
+SUP039,Reliable Imports,P0241,10,0.786
+SUP039,Reliable Imports,P0262,10,0.815
+SUP039,Reliable Imports,P0279,9,0.836
+SUP039,Reliable Imports,P0325,9,0.791
+SUP039,Reliable Imports,P0434,10,0.819
+SUP039,Reliable Imports,P0441,11,0.79
+SUP039,Reliable Imports,P0540,10,0.831
+SUP039,Reliable Imports,P0543,8,0.835
+SUP039,Reliable Imports,P0572,10,0.787
+SUP039,Reliable Imports,P0607,11,0.812
+SUP039,Reliable Imports,P0652,9,0.816
+SUP039,Reliable Imports,P0704,9,0.803
+SUP039,Reliable Imports,P0750,10,0.817
+SUP039,Reliable Imports,P0776,10,0.8
+SUP039,Reliable Imports,P0803,8,0.789
+SUP039,Reliable Imports,P0829,8,0.825
+SUP039,Reliable Imports,P0858,10,0.794
+SUP039,Reliable Imports,P0867,8,0.814
+SUP039,Reliable Imports,P0896,10,0.837
+SUP039,Reliable Imports,P0939,11,0.847
+SUP039,Reliable Imports,P0942,11,0.823
+SUP039,Reliable Imports,P0956,8,0.829
+SUP040,Reliable Agencies,P0101,6,0.954
+SUP040,Reliable Agencies,P0132,5,0.97
+SUP040,Reliable Agencies,P0162,8,0.972
+SUP040,Reliable Agencies,P0202,7,0.971
+SUP040,Reliable Agencies,P0219,5,0.971
+SUP040,Reliable Agencies,P0224,5,0.92
+SUP040,Reliable Agencies,P0361,7,0.932
+SUP040,Reliable Agencies,P0402,6,0.942
+SUP040,Reliable Agencies,P0605,8,0.914
+SUP040,Reliable Agencies,P0613,7,0.939
+SUP040,Reliable Agencies,P0614,7,0.902
+SUP040,Reliable Agencies,P0668,7,0.937
+SUP040,Reliable Agencies,P0711,8,0.939
+SUP040,Reliable Agencies,P0714,8,0.926
+SUP040,Reliable Agencies,P0782,8,0.974
+SUP040,Reliable Agencies,P0850,8,0.953
+SUP040,Reliable Agencies,P0866,7,0.917
+SUP040,Reliable Agencies,P0873,8,0.941
+SUP040,Reliable Agencies,P0892,7,0.909
+SUP040,Reliable Agencies,P0974,7,0.944
+SUP040,Reliable Agencies,P0981,7,0.906
+SUP040,Reliable Agencies,P0986,7,0.94
+SUP040,Reliable Agencies,P0995,7,0.923
+SUP040,Reliable Agencies,P0999,8,0.949

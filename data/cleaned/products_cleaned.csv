@@ -1,0 +1,1001 @@
+product_id,product_name,category,unit_cost,selling_price,has_sales_2025
+P0001,Nova Resistance Bands K160,Sports & Fitness,549.66,759.00,Yes
+P0002,Orbit Jacket P325,Apparel,1192.44,2869.00,Yes
+P0003,Bloom Soft Toy P603,Toys & Games,482.24,849.00,No
+P0004,Vista Face Wash M185,Beauty & Personal Care,278.52,479.00,Yes
+P0005,Bloom Wireless Earbuds Z455,Electronics,3825.32,4379.00,Yes
+P0006,Everyday Sketch Pens K536,Stationery,79.76,159.00,Yes
+P0007,Orbit Cycling Helmet R372,Sports & Fitness,985.91,1759.00,Yes
+P0008,Indus Cycling Helmet C722,Sports & Fitness,1281.01,2009.00,Yes
+P0009,Vista Bedsheet Set D650,Home & Kitchen,1857.86,2789.00,Yes
+P0010,Trivo Whole Wheat Atta 5kg E134,Grocery,259.29,299.00,Yes
+P0011,Zenith Socks Pack R666,Apparel,177.71,379.00,Yes
+P0012,Nova Geometry Box D780,Stationery,118.22,179.00,Yes
+P0013,Sapphire Toothpaste Pack D138,Beauty & Personal Care,76.95,149.00,Yes
+P0014,Aura Toy Train Set F677,Toys & Games,706.98,1099.00,Yes
+P0015,Everyday Leggings M704,Apparel,205.97,419.00,Yes
+P0016,Kriti Electric Kettle F629,Home & Kitchen,1285.42,1839.00,Yes
+P0017,Aura Basmati Rice 5kg K688,Grocery,862.45,989.00,Yes
+P0018,Nova Wireless Mouse Z614,Electronics,620.85,839.00,Yes
+P0019,Pristine Jigsaw Puzzle G328,Toys & Games,502.21,949.00,Yes
+P0020,Lumo Beard Trimmer T340,Beauty & Personal Care,1036.12,1979.00,Yes
+P0021,Kosmo Resistance Bands G844,Sports & Fitness,683.36,1209.00,Yes
+P0022,Kriti Leggings E764,Apparel,334.85,749.00,Yes
+P0023,Vista Gel Pen Set N648,Stationery,90.62,139.00,Yes
+P0024,Aura Doll House G415,Toys & Games,1398.16,2399.00,Yes
+P0025,Kosmo Cricket Bat M176,Sports & Fitness,3408.95,5899.00,Yes
+P0026,Nova Dinner Set C840,Home & Kitchen,1381.17,2339.00,Yes
+P0027,UrbanEdge Green Tea C396,Grocery,343.42,379.00,Yes
+P0028,Kriti LED Monitor A428,Electronics,9639.12,11269.00,Yes
+P0029,Orbit Mixer Grinder P78,Home & Kitchen,4225.21,7629.00,Yes
+P0030,UrbanEdge Toothpaste Pack L886,Beauty & Personal Care,154.33,259.00,Yes
+P0031,Orbit Cricket Bat M184,Sports & Fitness,973.85,1669.00,Yes
+P0032,Pristine Gel Pen Set F689,Stationery,95.38,159.00,Yes
+P0033,Orbit Jacket A521,Apparel,1988.17,4969.00,Yes
+P0034,Zenith Denim Jeans G325,Apparel,991.03,2449.00,Yes
+P0035,Pristine Green Tea H675,Grocery,254.96,279.00,Yes
+P0036,Trivo Electric Kettle X823,Home & Kitchen,1248.27,2139.00,Yes
+P0037,Pristine Cushion Cover R803,Home & Kitchen,233.49,389.00,Yes
+P0038,Vista Sunflower Oil 1L M880,Grocery,188.67,209.00,Yes
+P0039,Zenith Cushion Cover F76,Home & Kitchen,185.89,289.00,Yes
+P0040,Nova Lipstick V776,Beauty & Personal Care,111.98,199.00,Yes
+P0041,Nova Cotton T-Shirt G176,Apparel,330.45,759.00,Yes
+P0042,UrbanEdge Building Blocks M543,Toys & Games,1418.21,2649.00,Yes
+P0043,Sapphire Perfume M740,Beauty & Personal Care,416.33,729.00,Yes
+P0044,Kosmo Track Pants M752,Apparel,623.46,1249.00,Yes
+P0045,Pristine Art & Craft Kit N216,Toys & Games,412.73,629.00,Yes
+P0046,Indus Gym Gloves G184,Sports & Fitness,277.73,379.00,Yes
+P0047,UrbanEdge Denim Jeans R990,Apparel,1378.27,2649.00,Yes
+P0048,UrbanEdge Socks Pack X398,Apparel,193.39,379.00,Yes
+P0049,Everyday Shampoo K200,Beauty & Personal Care,327.57,689.00,Yes
+P0050,Kosmo Storage Container Set E737,Home & Kitchen,753.79,1089.00,Yes
+P0051,Lumo Non-Stick Pan H713,Home & Kitchen,963.50,1649.00,Yes
+P0052,Nova LED Monitor H491,Electronics,6927.57,8839.00,Yes
+P0053,Kosmo Gym Gloves B828,Sports & Fitness,352.47,589.00,Yes
+P0054,Lumo Sunscreen C526,Beauty & Personal Care,291.38,489.00,Yes
+P0055,Aura Shampoo V75,Beauty & Personal Care,246.53,479.00,Yes
+P0056,Nova Football S649,Sports & Fitness,467.73,819.00,Yes
+P0057,UrbanEdge Masala Noodles Pack T481,Grocery,120.04,139.00,Yes
+P0058,Kriti Organic Honey L589,Grocery,195.83,219.00,Yes
+P0059,UrbanEdge Mixer Grinder V108,Home & Kitchen,4412.11,6239.00,Yes
+P0060,Kosmo LED Monitor B143,Electronics,12938.26,15189.00,Yes
+P0061,Sapphire Hair Oil E64,Beauty & Personal Care,114.99,199.00,Yes
+P0062,Trivo Mixed Dry Fruits H213,Grocery,515.67,609.00,Yes
+P0063,Everyday Organic Honey S116,Grocery,516.66,569.00,Yes
+P0064,Zenith Yoga Mat D853,Sports & Fitness,1036.89,1429.00,Yes
+P0065,Indus Toothpaste Pack C996,Beauty & Personal Care,141.10,259.00,Yes
+P0066,Nova Whole Wheat Atta 5kg K949,Grocery,263.46,299.00,Yes
+P0067,Lumo Basmati Rice 5kg T978,Grocery,808.70,899.00,Yes
+P0068,Vista Hoodie Z386,Apparel,786.89,1939.00,Yes
+P0069,Trivo Smart Bulb P327,Electronics,798.49,929.00,Yes
+P0070,UrbanEdge Kurta A593,Apparel,340.99,799.00,Yes
+P0071,Trivo Bedsheet Set T636,Home & Kitchen,1087.80,1639.00,Yes
+P0072,Everyday Hoodie S335,Apparel,1491.54,2859.00,Yes
+P0073,Pristine Board Game F662,Toys & Games,795.40,1309.00,Yes
+P0074,Lumo Dinner Set B384,Home & Kitchen,1551.67,2279.00,Yes
+P0075,Zenith Wireless Mouse Z395,Electronics,442.53,579.00,Yes
+P0076,Kosmo Socks Pack M264,Apparel,156.66,349.00,Yes
+P0077,Sapphire Track Pants B672,Apparel,686.66,1429.00,Yes
+P0078,Nova Toothpaste Pack B924,Beauty & Personal Care,165.16,289.00,Yes
+P0079,Lumo Tomato Ketchup X683,Grocery,90.62,99.00,Yes
+P0080,Lumo Sports Shoes C853,Sports & Fitness,973.52,1619.00,Yes
+P0081,Vista Moisturizer M788,Beauty & Personal Care,356.25,549.00,Yes
+P0082,Aura Leggings V569,Apparel,435.55,829.00,Yes
+P0083,Aura Yoga Mat C501,Sports & Fitness,439.72,739.00,Yes
+P0084,Lumo Water Bottle T857,Home & Kitchen,484.28,869.00,Yes
+P0085,UrbanEdge Smart Bulb N380,Electronics,686.99,929.00,Yes
+P0086,Zenith Bluetooth Speaker E568,Electronics,5434.95,6769.00,Yes
+P0087,Kriti Hair Oil X376,Beauty & Personal Care,157.64,279.00,Yes
+P0088,Pristine Sunflower Oil 1L E839,Grocery,122.87,149.00,Yes
+P0089,Aura Non-Stick Pan B33,Home & Kitchen,678.08,1179.00,Yes
+P0090,Vista Tomato Ketchup N171,Grocery,124.74,149.00,Yes
+P0091,Bloom Storage Container Set C49,Home & Kitchen,469.07,749.00,Yes
+P0092,Pristine Lipstick K148,Beauty & Personal Care,375.82,619.00,Yes
+P0093,UrbanEdge Track Pants L947,Apparel,487.16,839.00,Yes
+P0094,Pristine Denim Jeans E89,Apparel,1061.00,2619.00,Yes
+P0095,Orbit Track Pants G434,Apparel,647.75,1369.00,Yes
+P0096,Pristine Shampoo H993,Beauty & Personal Care,118.93,219.00,Yes
+P0097,Kriti Formal Shirt M308,Apparel,398.73,869.00,Yes
+P0098,Everyday Wireless Mouse S839,Electronics,327.89,449.00,Yes
+P0099,Zenith USB Charger X164,Electronics,267.97,359.00,Yes
+P0100,Lumo Water Colours R403,Stationery,275.07,469.00,Yes
+P0101,Pristine Water Colours F317,Stationery,60.24,119.00,Yes
+P0102,UrbanEdge Body Lotion D103,Beauty & Personal Care,141.25,309.00,Yes
+P0103,Everyday Storage Container Set C976,Home & Kitchen,671.01,1149.00,Yes
+P0104,Sapphire Sticky Notes X797,Stationery,127.50,189.00,Yes
+P0105,Lumo Football E972,Sports & Fitness,746.41,1309.00,Yes
+P0106,Bloom Perfume V392,Beauty & Personal Care,954.85,1709.00,Yes
+P0107,Trivo Kurta R86,Apparel,779.36,1339.00,Yes
+P0108,Indus Track Pants T616,Apparel,392.76,949.00,Yes
+P0109,Nova Wireless Earbuds F975,Electronics,1379.88,1629.00,Yes
+P0110,Kosmo File Folder Set V977,Stationery,127.68,249.00,Yes
+P0111,Kosmo Basmati Rice 5kg X72,Grocery,467.91,519.00,Yes
+P0112,UrbanEdge Pressure Cooker E541,Home & Kitchen,1582.79,2789.00,Yes
+P0113,Orbit Saree V621,Apparel,883.73,2009.00,Yes
+P0114,Sapphire Breakfast Cereal C99,Grocery,376.77,429.00,Yes
+P0115,Kosmo Mixer Grinder V384,Home & Kitchen,2753.27,4909.00,Yes
+P0116,Indus Jigsaw Puzzle N327,Toys & Games,450.47,679.00,Yes
+P0117,Orbit Dumbbell Set T236,Sports & Fitness,2445.98,3689.00,Yes
+P0118,Bloom Body Lotion S196,Beauty & Personal Care,124.46,269.00,Yes
+P0119,Zenith Socks Pack A513,Apparel,158.25,319.00,Yes
+P0120,Pristine Toothpaste Pack L483,Beauty & Personal Care,165.27,299.00,Yes
+P0121,Pristine Tomato Ketchup E235,Grocery,92.52,109.00,Yes
+P0122,Orbit Body Lotion A474,Beauty & Personal Care,99.37,219.00,Yes
+P0123,Everyday LED Monitor T823,Electronics,13994.31,16079.00,Yes
+P0124,Orbit Jacket K641,Apparel,2180.40,4239.00,Yes
+P0125,Sapphire Bluetooth Speaker K665,Electronics,4615.66,5599.00,Yes
+P0126,Bloom Masala Noodles Pack N430,Grocery,130.45,149.00,Yes
+P0127,Sapphire Saree L465,Apparel,1597.53,3529.00,Yes
+P0128,Kosmo Bedsheet Set H206,Home & Kitchen,1743.56,2409.00,Yes
+P0129,Orbit Power Bank R279,Electronics,1782.44,2419.00,Yes
+P0130,Zenith Mixed Dry Fruits F205,Grocery,1044.80,1159.00,Yes
+P0131,Aura Dinner Set R762,Home & Kitchen,1788.54,3119.00,Yes
+P0132,Bloom Gel Pen Set S483,Stationery,49.65,79.00,Yes
+P0133,UrbanEdge Organic Honey H136,Grocery,272.85,309.00,Yes
+P0134,Lumo Jacket K486,Apparel,2325.89,3969.00,Yes
+P0135,Indus Green Tea D453,Grocery,303.39,369.00,Yes
+P0136,Sapphire LED Monitor D184,Electronics,9940.43,12089.00,Yes
+P0137,Vista Sketch Pens X754,Stationery,71.05,109.00,Yes
+P0138,Aura Sunflower Oil 1L A444,Grocery,143.78,159.00,Yes
+P0139,Aura Cycling Helmet M765,Sports & Fitness,1348.67,1919.00,Yes
+P0140,Everyday Wireless Earbuds A868,Electronics,2322.81,2989.00,Yes
+P0141,Kriti Breakfast Cereal T909,Grocery,267.55,329.00,Yes
+P0142,Indus Mixed Dry Fruits R25,Grocery,699.99,769.00,Yes
+P0143,Vista Desk Organizer K572,Stationery,401.42,649.00,Yes
+P0144,Lumo Masala Noodles Pack R232,Grocery,117.00,129.00,Yes
+P0145,Indus Sunflower Oil 1L P874,Grocery,167.33,209.00,Yes
+P0146,Everyday Pressure Cooker S275,Home & Kitchen,1392.24,2079.00,Yes
+P0147,Orbit Socks Pack Z561,Apparel,254.38,479.00,Yes
+P0148,Aura Breakfast Cereal S67,Grocery,178.42,199.00,Yes
+P0149,Kriti Saree A684,Apparel,1303.43,3009.00,Yes
+P0150,UrbanEdge Mechanical Keyboard Z272,Electronics,2287.00,3049.00,Yes
+P0151,Everyday Puzzle Cube Z816,Toys & Games,117.97,209.00,Yes
+P0152,Kosmo Soft Toy M271,Toys & Games,318.96,629.00,Yes
+P0153,Pristine Non-Stick Pan S778,Home & Kitchen,992.44,1419.00,Yes
+P0154,Indus Breakfast Cereal T220,Grocery,212.32,259.00,Yes
+P0155,Nova Mechanical Keyboard V48,Electronics,3914.02,5429.00,Yes
+P0156,Kosmo Moisturizer S98,Beauty & Personal Care,287.44,589.00,Yes
+P0157,Trivo Denim Jeans E196,Apparel,1308.45,2489.00,Yes
+P0158,UrbanEdge Shampoo S863,Beauty & Personal Care,221.09,399.00,Yes
+P0159,Orbit Lipstick D417,Beauty & Personal Care,339.60,749.00,Yes
+P0160,Pristine Gym Gloves Z732,Sports & Fitness,665.08,949.00,Yes
+P0161,Indus Wireless Earbuds C208,Electronics,1118.26,1389.00,Yes
+P0162,UrbanEdge Gel Pen Set D798,Stationery,89.25,139.00,Yes
+P0163,Everyday Water Bottle N281,Home & Kitchen,528.87,759.00,Yes
+P0164,Kosmo Bluetooth Speaker L408,Electronics,1734.27,2379.00,Yes
+P0165,Kosmo Tomato Ketchup E44,Grocery,156.11,179.00,Yes
+P0166,UrbanEdge Cotton T-Shirt D218,Apparel,332.12,749.00,Yes
+P0167,Everyday Jigsaw Puzzle B235,Toys & Games,471.46,889.00,Yes
+P0168,Nova Skipping Rope B622,Sports & Fitness,371.28,539.00,Yes
+P0169,Indus Track Pants D939,Apparel,279.17,629.00,Yes
+P0170,Bloom Gel Pen Set D532,Stationery,72.93,139.00,Yes
+P0171,Indus Leggings N294,Apparel,355.15,789.00,Yes
+P0172,Zenith Whole Wheat Atta 5kg P510,Grocery,231.25,269.00,Yes
+P0173,Lumo Bedsheet Set Z914,Home & Kitchen,953.53,1609.00,Yes
+P0174,Kosmo Water Colours E527,Stationery,219.55,389.00,Yes
+P0175,UrbanEdge Electric Kettle A724,Home & Kitchen,1198.87,2149.00,Yes
+P0176,Everyday Smart Bulb G641,Electronics,1053.48,1279.00,Yes
+P0177,Vista Saree N418,Apparel,3446.16,5929.00,Yes
+P0178,Everyday Sticky Notes N388,Stationery,48.28,89.00,Yes
+P0179,Kriti Doll House E772,Toys & Games,2935.75,4589.00,Yes
+P0180,Trivo Cricket Bat X831,Sports & Fitness,2868.31,4639.00,Yes
+P0181,Nova Puzzle Cube G567,Toys & Games,138.85,249.00,Yes
+P0182,Vista Doll House T866,Toys & Games,1064.65,1689.00,Yes
+P0183,Nova Masala Noodles Pack V60,Grocery,71.79,89.00,Yes
+P0184,Indus Hoodie E748,Apparel,613.99,1439.00,Yes
+P0185,Everyday Cycling Helmet H781,Sports & Fitness,990.72,1539.00,Yes
+P0186,Kosmo Body Lotion G958,Beauty & Personal Care,186.28,289.00,Yes
+P0187,Bloom Formal Shirt X536,Apparel,847.81,1879.00,Yes
+P0188,Vista Bluetooth Speaker F209,Electronics,3435.90,4419.00,Yes
+P0189,Everyday Yoga Mat Z582,Sports & Fitness,1169.07,1719.00,Yes
+P0190,UrbanEdge Pressure Cooker P922,Home & Kitchen,2231.56,3919.00,Yes
+P0191,Aura File Folder Set C99,Stationery,97.99,149.00,Yes
+P0192,Zenith Pressure Cooker B83,Home & Kitchen,772.30,1399.00,Yes
+P0193,Zenith Non-Stick Pan B776,Home & Kitchen,1375.04,2169.00,Yes
+P0194,Orbit Building Blocks K526,Toys & Games,1544.66,2699.00,Yes
+P0195,Bloom Cushion Cover D472,Home & Kitchen,319.29,469.00,Yes
+P0196,UrbanEdge Non-Stick Pan K161,Home & Kitchen,1471.79,2109.00,Yes
+P0197,Kosmo Masala Noodles Pack Z689,Grocery,113.57,129.00,Yes
+P0198,Sapphire Doll House D314,Toys & Games,967.63,1769.00,Yes
+P0199,Kosmo Electric Kettle C302,Home & Kitchen,1118.47,1969.00,Yes
+P0200,Lumo Leggings F625,Apparel,229.41,469.00,Yes
+P0201,Orbit Badminton Racket G696,Sports & Fitness,1965.79,2719.00,Yes
+P0202,Bloom Sticky Notes S452,Stationery,102.09,149.00,Yes
+P0203,Pristine Basmati Rice 5kg G446,Grocery,481.50,539.00,Yes
+P0204,Indus Wall Clock K550,Home & Kitchen,454.97,779.00,Yes
+P0205,Indus Wireless Earbuds B623,Electronics,2311.57,2889.00,Yes
+P0206,Everyday Electric Kettle P605,Home & Kitchen,1055.96,1639.00,Yes
+P0207,Indus Cushion Cover P486,Home & Kitchen,154.60,239.00,Yes
+P0208,Everyday Lipstick Z962,Beauty & Personal Care,327.68,589.00,Yes
+P0209,Pristine Bedsheet Set C104,Home & Kitchen,790.70,1119.00,Yes
+P0210,Nova Mixed Dry Fruits M736,Grocery,611.66,739.00,Yes
+P0211,Nova Body Lotion C941,Beauty & Personal Care,265.61,429.00,Yes
+P0212,UrbanEdge Tomato Ketchup H645,Grocery,140.06,159.00,Yes
+P0213,Pristine Dinner Set E906,Home & Kitchen,2842.91,4039.00,No
+P0214,Vista Sports Shoes G998,Sports & Fitness,2841.68,4899.00,Yes
+P0215,Kosmo Beard Trimmer P270,Beauty & Personal Care,941.26,1569.00,Yes
+P0216,Lumo Gym Gloves C531,Sports & Fitness,545.87,989.00,Yes
+P0217,Orbit Dinner Set G211,Home & Kitchen,2500.99,4439.00,Yes
+P0218,Vista Dinner Set X445,Home & Kitchen,2984.24,4329.00,Yes
+P0219,Kriti Sketch Pens N800,Stationery,103.24,199.00,Yes
+P0220,Aura Leggings B565,Apparel,239.88,489.00,Yes
+P0221,Vista Denim Jeans P751,Apparel,1176.10,2269.00,Yes
+P0222,Trivo Organic Honey K196,Grocery,297.66,329.00,Yes
+P0223,Sapphire Lipstick B761,Beauty & Personal Care,337.87,559.00,Yes
+P0224,Lumo Scientific Calculator C185,Stationery,330.46,519.00,Yes
+P0225,Orbit Kurta A64,Apparel,656.86,1119.00,Yes
+P0226,Lumo Scientific Calculator B163,Stationery,275.20,519.00,Yes
+P0227,Orbit Wireless Mouse H81,Electronics,719.33,889.00,Yes
+P0228,Sapphire Whole Wheat Atta 5kg M186,Grocery,348.18,379.00,Yes
+P0229,Everyday Lipstick X210,Beauty & Personal Care,396.17,639.00,Yes
+P0230,Orbit Smart Bulb Z953,Electronics,822.51,1049.00,Yes
+P0231,Vista Wall Clock S366,Home & Kitchen,575.35,879.00,Yes
+P0232,Kosmo Jacket L714,Apparel,878.54,1659.00,Yes
+P0233,Nova Geometry Box E614,Stationery,119.38,209.00,Yes
+P0234,Indus Breakfast Cereal A111,Grocery,324.66,389.00,Yes
+P0235,Vista File Folder Set D52,Stationery,181.60,279.00,Yes
+P0236,Kosmo Resistance Bands B184,Sports & Fitness,499.74,749.00,Yes
+P0237,Sapphire Sunflower Oil 1L N930,Grocery,187.23,209.00,Yes
+P0238,Nova Skipping Rope L21,Sports & Fitness,318.42,569.00,Yes
+P0239,Indus Smart Bulb E971,Electronics,932.79,1269.00,Yes
+P0240,Lumo Bluetooth Speaker B617,Electronics,1494.76,2009.00,Yes
+P0241,Orbit Puzzle Cube L162,Toys & Games,198.53,339.00,Yes
+P0242,Indus Gym Gloves D850,Sports & Fitness,210.81,349.00,Yes
+P0243,Vista Bedsheet Set X969,Home & Kitchen,1285.04,1869.00,Yes
+P0244,Bloom Sunflower Oil 1L H227,Grocery,151.93,169.00,Yes
+P0245,Pristine Body Lotion B223,Beauty & Personal Care,291.34,579.00,Yes
+P0246,Sapphire Puzzle Cube S249,Toys & Games,168.96,319.00,Yes
+P0247,Orbit Lipstick B695,Beauty & Personal Care,561.92,939.00,Yes
+P0248,Kriti Saree P677,Apparel,1018.48,1749.00,Yes
+P0249,Trivo Socks Pack S756,Apparel,85.33,169.00,Yes
+P0250,Aura Denim Jeans R524,Apparel,719.11,1669.00,Yes
+P0251,Sapphire Sunscreen E654,Beauty & Personal Care,238.43,519.00,Yes
+P0252,Zenith Remote Control Car F150,Toys & Games,2197.23,3649.00,Yes
+P0253,UrbanEdge Green Tea M293,Grocery,328.24,359.00,Yes
+P0254,UrbanEdge Mixer Grinder M526,Home & Kitchen,3281.61,4919.00,Yes
+P0255,Aura Water Bottle F379,Home & Kitchen,137.34,219.00,Yes
+P0256,Orbit Football K255,Sports & Fitness,492.43,659.00,Yes
+P0257,Pristine Football A384,Sports & Fitness,640.27,1089.00,Yes
+P0258,Vista Smart Bulb P519,Electronics,814.27,929.00,Yes
+P0259,Trivo Headphones B784,Electronics,4137.48,4789.00,Yes
+P0260,Kriti Organic Honey E766,Grocery,177.20,209.00,Yes
+P0261,Aura Cushion Cover F929,Home & Kitchen,417.14,669.00,Yes
+P0262,Kriti Puzzle Cube Z551,Toys & Games,103.26,169.00,Yes
+P0263,UrbanEdge Track Pants D26,Apparel,337.67,839.00,Yes
+P0264,Pristine Non-Stick Pan A485,Home & Kitchen,1506.80,2199.00,Yes
+P0265,Kriti Gel Pen Set D61,Stationery,93.66,139.00,Yes
+P0266,Kriti Electric Kettle A99,Home & Kitchen,810.83,1249.00,Yes
+P0267,Pristine Track Pants Z971,Apparel,713.81,1429.00,Yes
+P0268,Kosmo Cushion Cover D453,Home & Kitchen,288.47,499.00,Yes
+P0269,Aura Bluetooth Speaker G535,Electronics,5771.56,7059.00,Yes
+P0270,Kriti USB Charger D40,Electronics,406.74,489.00,Yes
+P0271,Trivo LED Monitor K189,Electronics,8790.85,11399.00,Yes
+P0272,Bloom Bedsheet Set H355,Home & Kitchen,881.96,1299.00,Yes
+P0273,Bloom Power Bank B854,Electronics,1454.46,1769.00,Yes
+P0274,Lumo Basmati Rice 5kg K349,Grocery,494.50,609.00,Yes
+P0275,Nova Body Lotion Z246,Beauty & Personal Care,249.46,399.00,Yes
+P0276,Indus Saree X937,Apparel,723.27,1649.00,Yes
+P0277,Orbit Kurta R992,Apparel,891.24,1949.00,Yes
+P0278,Trivo Whole Wheat Atta 5kg T537,Grocery,222.14,259.00,Yes
+P0279,UrbanEdge Art & Craft Kit B928,Toys & Games,591.90,849.00,Yes
+P0280,Kosmo Doll House S247,Toys & Games,1111.82,1639.00,Yes
+P0281,Aura Power Bank F201,Electronics,642.35,769.00,Yes
+P0282,Trivo Cushion Cover G334,Home & Kitchen,292.66,429.00,Yes
+P0283,Zenith Dinner Set F759,Home & Kitchen,779.83,1099.00,Yes
+P0284,Kriti Bedsheet Set T536,Home & Kitchen,1836.46,2829.00,Yes
+P0285,Aura Tomato Ketchup R845,Grocery,148.25,179.00,Yes
+P0286,Everyday Formal Shirt R808,Apparel,687.36,1539.00,Yes
+P0287,Aura Headphones X994,Electronics,8094.65,9359.00,Yes
+P0288,Indus Formal Shirt C43,Apparel,449.54,959.00,Yes
+P0289,Indus Breakfast Cereal L858,Grocery,329.76,389.00,Yes
+P0290,Zenith Power Bank V52,Electronics,1081.45,1329.00,Yes
+P0291,Pristine Doll House V430,Toys & Games,1509.51,2429.00,Yes
+P0292,Everyday Wireless Earbuds X431,Electronics,1532.23,2079.00,Yes
+P0293,Aura Water Colours K264,Stationery,184.32,299.00,Yes
+P0294,Vista Power Bank N570,Electronics,864.05,1049.00,Yes
+P0295,Pristine Action Figure P970,Toys & Games,849.09,1309.00,Yes
+P0296,Indus Notebook Pack D150,Stationery,207.09,389.00,Yes
+P0297,Vista Scientific Calculator F588,Stationery,358.82,669.00,Yes
+P0298,Kosmo Football G568,Sports & Fitness,1373.23,1889.00,Yes
+P0299,Bloom Football D817,Sports & Fitness,371.32,589.00,Yes
+P0300,Zenith Face Wash B666,Beauty & Personal Care,196.84,329.00,Yes
+P0301,Zenith Football E194,Sports & Fitness,1084.43,1899.00,Yes
+P0302,Aura Water Bottle L448,Home & Kitchen,369.29,609.00,Yes
+P0303,UrbanEdge Whole Wheat Atta 5kg S460,Grocery,199.21,249.00,Yes
+P0304,Everyday Instant Coffee X96,Grocery,355.29,439.00,Yes
+P0305,Zenith Toy Train Set G321,Toys & Games,1449.31,2839.00,Yes
+P0306,Trivo Instant Coffee F198,Grocery,373.26,429.00,Yes
+P0307,Everyday Track Pants N76,Apparel,343.75,749.00,Yes
+P0308,Nova Lipstick N658,Beauty & Personal Care,418.60,719.00,Yes
+P0309,Zenith Mixer Grinder H877,Home & Kitchen,4633.69,7719.00,Yes
+P0310,UrbanEdge Mixer Grinder V541,Home & Kitchen,2880.49,4259.00,Yes
+P0311,Aura Whole Wheat Atta 5kg M262,Grocery,209.30,239.00,Yes
+P0312,Trivo Saree F630,Apparel,1083.74,1979.00,Yes
+P0313,Trivo Dinner Set Z774,Home & Kitchen,1530.22,2379.00,Yes
+P0314,Trivo Cotton T-Shirt F526,Apparel,288.39,709.00,Yes
+P0315,Everyday Denim Jeans R434,Apparel,1523.00,2589.00,Yes
+P0316,Bloom Leggings A101,Apparel,451.90,889.00,Yes
+P0317,Lumo Formal Shirt A512,Apparel,453.74,1009.00,Yes
+P0318,Bloom Face Wash X616,Beauty & Personal Care,235.37,449.00,Yes
+P0319,Indus Formal Shirt A46,Apparel,949.98,2229.00,Yes
+P0320,Lumo Notebook Pack S651,Stationery,83.94,159.00,Yes
+P0321,Pristine School Backpack R706,Stationery,606.28,959.00,Yes
+P0322,Kosmo Instant Coffee R766,Grocery,202.55,249.00,Yes
+P0323,UrbanEdge Cotton T-Shirt D711,Apparel,202.39,499.00,Yes
+P0324,Orbit Mixed Dry Fruits R49,Grocery,573.78,649.00,Yes
+P0325,Bloom Building Blocks Z732,Toys & Games,425.71,609.00,Yes
+P0326,Kriti Toothpaste Pack E491,Beauty & Personal Care,138.36,249.00,Yes
+P0327,Pristine Resistance Bands M436,Sports & Fitness,399.66,619.00,Yes
+P0328,Lumo Green Tea T87,Grocery,335.45,419.00,Yes
+P0329,Trivo Sunscreen C294,Beauty & Personal Care,225.46,389.00,Yes
+P0330,UrbanEdge Kurta N920,Apparel,1026.02,2049.00,Yes
+P0331,Nova Resistance Bands S89,Sports & Fitness,246.99,369.00,Yes
+P0332,Kosmo Water Bottle C206,Home & Kitchen,629.60,889.00,Yes
+P0333,Lumo Shampoo C382,Beauty & Personal Care,239.73,449.00,Yes
+P0334,Sapphire Jigsaw Puzzle B692,Toys & Games,245.11,399.00,Yes
+P0335,Everyday Water Bottle P78,Home & Kitchen,292.13,459.00,Yes
+P0336,UrbanEdge Sunscreen Z295,Beauty & Personal Care,165.96,329.00,Yes
+P0337,Bloom Wireless Earbuds R837,Electronics,934.17,1259.00,Yes
+P0338,Zenith Face Wash M855,Beauty & Personal Care,101.56,159.00,Yes
+P0339,Kosmo Headphones F797,Electronics,4813.17,5929.00,Yes
+P0340,Vista File Folder Set H158,Stationery,125.04,249.00,Yes
+P0341,Sapphire Bedsheet Set B887,Home & Kitchen,536.01,819.00,Yes
+P0342,Orbit Gel Pen Set T424,Stationery,122.35,189.00,Yes
+P0343,Trivo Yoga Mat K333,Sports & Fitness,841.01,1279.00,Yes
+P0344,Aura Breakfast Cereal A158,Grocery,191.89,219.00,Yes
+P0345,Everyday Resistance Bands K696,Sports & Fitness,650.20,899.00,Yes
+P0346,Sapphire Sports Shoes M18,Sports & Fitness,1849.37,2569.00,Yes
+P0347,Nova Gel Pen Set F54,Stationery,100.01,199.00,Yes
+P0348,Indus Dinner Set G758,Home & Kitchen,814.10,1289.00,Yes
+P0349,Trivo Organic Honey D991,Grocery,168.87,199.00,Yes
+P0350,Kosmo USB Charger H559,Electronics,420.62,489.00,Yes
+P0351,Lumo Hair Oil K893,Beauty & Personal Care,169.29,339.00,Yes
+P0352,Sapphire Dinner Set S304,Home & Kitchen,1270.62,1989.00,Yes
+P0353,Aura Organic Honey X974,Grocery,476.92,569.00,Yes
+P0354,Pristine Whole Wheat Atta 5kg G116,Grocery,274.83,319.00,Yes
+P0355,Kosmo Instant Coffee V932,Grocery,418.57,459.00,Yes
+P0356,Zenith Masala Noodles Pack T105,Grocery,57.14,69.00,Yes
+P0357,Everyday Dumbbell Set B694,Sports & Fitness,2870.74,3899.00,Yes
+P0358,Orbit Resistance Bands V721,Sports & Fitness,618.84,1059.00,Yes
+P0359,Lumo Organic Honey D957,Grocery,275.15,329.00,Yes
+P0360,Lumo Basmati Rice 5kg P758,Grocery,719.19,829.00,Yes
+P0361,Kriti Geometry Box R544,Stationery,91.67,139.00,Yes
+P0362,Vista Power Bank L410,Electronics,1752.15,2009.00,Yes
+P0363,Lumo Smart Bulb N723,Electronics,719.81,929.00,Yes
+P0364,Orbit Bluetooth Speaker X542,Electronics,5178.67,6639.00,Yes
+P0365,Orbit Face Wash V532,Beauty & Personal Care,106.57,179.00,Yes
+P0366,Everyday Leggings H596,Apparel,412.58,709.00,Yes
+P0367,Kosmo Dumbbell Set H597,Sports & Fitness,2302.39,3939.00,Yes
+P0368,Lumo Toothpaste Pack T865,Beauty & Personal Care,94.77,169.00,Yes
+P0369,Bloom Cotton T-Shirt G59,Apparel,346.87,659.00,Yes
+P0370,UrbanEdge Art & Craft Kit X944,Toys & Games,293.28,469.00,Yes
+P0371,Vista Football E344,Sports & Fitness,618.79,849.00,Yes
+P0372,Sapphire Cotton T-Shirt T804,Apparel,253.49,569.00,Yes
+P0373,Zenith Track Pants D408,Apparel,452.67,1109.00,Yes
+P0374,Nova Denim Jeans P526,Apparel,1205.89,2849.00,Yes
+P0375,Lumo Cushion Cover P503,Home & Kitchen,192.83,329.00,Yes
+P0376,Nova Pressure Cooker L830,Home & Kitchen,1740.73,3109.00,Yes
+P0377,Aura Water Colours P937,Stationery,60.92,119.00,Yes
+P0378,Vista Cotton T-Shirt P425,Apparel,380.10,749.00,Yes
+P0379,Zenith Socks Pack G838,Apparel,99.07,179.00,Yes
+P0380,UrbanEdge Sunscreen Z222,Beauty & Personal Care,220.97,409.00,Yes
+P0381,UrbanEdge Instant Coffee S629,Grocery,419.52,479.00,Yes
+P0382,Everyday Sketch Pens A903,Stationery,35.69,69.00,Yes
+P0383,Sapphire Sports Shoes N642,Sports & Fitness,2716.09,4339.00,Yes
+P0384,Bloom Mixed Dry Fruits X589,Grocery,329.26,409.00,Yes
+P0385,Indus Denim Jeans T514,Apparel,1045.06,1749.00,Yes
+P0386,Vista Geometry Box T257,Stationery,132.10,209.00,Yes
+P0387,Vista Shampoo K181,Beauty & Personal Care,177.39,389.00,Yes
+P0388,Aura Sticky Notes E504,Stationery,52.63,89.00,Yes
+P0389,Orbit Bluetooth Speaker M695,Electronics,6398.74,7669.00,Yes
+P0390,Nova Puzzle Cube V40,Toys & Games,163.35,269.00,Yes
+P0391,Orbit Beard Trimmer E521,Beauty & Personal Care,1181.04,2359.00,Yes
+P0392,Orbit Storage Container Set R108,Home & Kitchen,570.41,769.00,Yes
+P0393,Orbit Whole Wheat Atta 5kg P562,Grocery,366.32,399.00,Yes
+P0394,Indus Hair Oil D623,Beauty & Personal Care,188.79,349.00,Yes
+P0395,Bloom Smartwatch C926,Electronics,11331.05,13169.00,Yes
+P0396,Nova Instant Coffee R202,Grocery,563.78,619.00,Yes
+P0397,Nova Jigsaw Puzzle D174,Toys & Games,385.58,609.00,Yes
+P0398,Pristine Kurta P894,Apparel,606.75,1359.00,Yes
+P0399,Orbit Masala Noodles Pack R914,Grocery,52.19,59.00,Yes
+P0400,Zenith Formal Shirt M951,Apparel,612.72,1489.00,Yes
+P0401,Pristine Formal Shirt R755,Apparel,981.19,1929.00,Yes
+P0402,Nova School Backpack T240,Stationery,501.55,869.00,Yes
+P0403,Orbit Cycling Helmet X821,Sports & Fitness,1076.05,1879.00,Yes
+P0404,Vista Wireless Mouse C499,Electronics,1044.94,1249.00,Yes
+P0405,UrbanEdge Sketch Pens X903,Stationery,95.83,179.00,Yes
+P0406,Everyday Jigsaw Puzzle N932,Toys & Games,634.05,969.00,Yes
+P0407,Lumo Leggings G349,Apparel,267.87,549.00,Yes
+P0408,Aura Building Blocks N501,Toys & Games,751.18,1099.00,Yes
+P0409,Everyday Smart Bulb D434,Electronics,771.95,969.00,Yes
+P0410,Pristine Sketch Pens H206,Stationery,42.30,79.00,Yes
+P0411,Bloom Body Lotion F864,Beauty & Personal Care,266.98,499.00,Yes
+P0412,Aura Moisturizer X800,Beauty & Personal Care,412.87,819.00,Yes
+P0413,Orbit Wireless Earbuds D425,Electronics,3157.72,4379.00,Yes
+P0414,Sapphire Board Game X927,Toys & Games,968.38,1589.00,Yes
+P0415,Trivo Smartwatch S233,Electronics,8068.65,9349.00,Yes
+P0416,Sapphire Dinner Set M253,Home & Kitchen,1737.69,2589.00,Yes
+P0417,Vista Pressure Cooker N79,Home & Kitchen,1974.98,3459.00,Yes
+P0418,Lumo Cycling Helmet M452,Sports & Fitness,1360.27,2169.00,Yes
+P0419,Trivo Water Bottle E505,Home & Kitchen,335.17,529.00,Yes
+P0420,Vista Gel Pen Set B347,Stationery,115.13,209.00,Yes
+P0421,Sapphire Hair Oil B586,Beauty & Personal Care,222.33,359.00,Yes
+P0422,Aura Mechanical Keyboard S674,Electronics,5411.90,6429.00,Yes
+P0423,Kosmo Bluetooth Speaker H387,Electronics,3509.28,4819.00,Yes
+P0424,Everyday Wireless Earbuds D174,Electronics,3662.38,4949.00,Yes
+P0425,Sapphire Beard Trimmer X872,Beauty & Personal Care,605.05,1059.00,Yes
+P0426,Bloom Resistance Bands R814,Sports & Fitness,557.44,829.00,Yes
+P0427,Bloom Bedsheet Set F237,Home & Kitchen,1016.70,1779.00,Yes
+P0428,UrbanEdge Jigsaw Puzzle B254,Toys & Games,378.70,749.00,Yes
+P0429,Kosmo Power Bank Z234,Electronics,756.41,1019.00,Yes
+P0430,Vista Football K560,Sports & Fitness,1486.92,1989.00,Yes
+P0431,Vista Desk Organizer P416,Stationery,540.26,859.00,Yes
+P0432,UrbanEdge Badminton Racket F145,Sports & Fitness,1849.75,3119.00,Yes
+P0433,Trivo Shampoo R305,Beauty & Personal Care,421.50,649.00,Yes
+P0434,Lumo Remote Control Car N465,Toys & Games,1290.54,1999.00,Yes
+P0435,UrbanEdge Headphones B579,Electronics,4424.41,5769.00,Yes
+P0436,Zenith Cushion Cover E767,Home & Kitchen,506.94,709.00,Yes
+P0437,Trivo Wall Clock S194,Home & Kitchen,1168.72,1649.00,Yes
+P0438,Vista Masala Noodles Pack A726,Grocery,43.76,49.00,Yes
+P0439,Sapphire Skipping Rope H799,Sports & Fitness,108.41,189.00,Yes
+P0440,Everyday Toothpaste Pack M529,Beauty & Personal Care,123.13,239.00,Yes
+P0441,Orbit Soft Toy N322,Toys & Games,951.17,1399.00,Yes
+P0442,Zenith Non-Stick Pan B678,Home & Kitchen,1579.00,2389.00,Yes
+P0443,Sapphire Yoga Mat F801,Sports & Fitness,1427.39,1989.00,Yes
+P0444,Everyday Water Bottle N361,Home & Kitchen,137.21,229.00,Yes
+P0445,Orbit Saree M143,Apparel,1956.00,3569.00,Yes
+P0446,Zenith Perfume E357,Beauty & Personal Care,396.53,759.00,Yes
+P0447,Kosmo Geometry Box R543,Stationery,151.35,269.00,Yes
+P0448,Kriti Lipstick R84,Beauty & Personal Care,245.76,509.00,Yes
+P0449,Indus LED Monitor B583,Electronics,18463.95,24799.00,Yes
+P0450,Orbit Lipstick S772,Beauty & Personal Care,246.26,479.00,Yes
+P0451,Kriti Power Bank K599,Electronics,1591.58,1829.00,Yes
+P0452,Zenith Doll House M733,Toys & Games,1496.18,2359.00,Yes
+P0453,UrbanEdge Body Lotion D874,Beauty & Personal Care,172.43,269.00,Yes
+P0454,Bloom Water Bottle L563,Home & Kitchen,170.45,229.00,Yes
+P0455,Aura Wireless Mouse C924,Electronics,858.28,1059.00,Yes
+P0456,Aura Electric Kettle V956,Home & Kitchen,1440.68,1949.00,Yes
+P0457,Kriti Scientific Calculator E227,Stationery,752.02,1239.00,Yes
+P0458,Sapphire Organic Honey V456,Grocery,436.86,489.00,Yes
+P0459,Pristine Skipping Rope G646,Sports & Fitness,318.27,519.00,Yes
+P0460,Orbit Toothpaste Pack N55,Beauty & Personal Care,85.77,149.00,Yes
+P0461,Indus Sunflower Oil 1L S252,Grocery,146.59,169.00,Yes
+P0462,Kosmo Electric Kettle N73,Home & Kitchen,1265.58,1799.00,Yes
+P0463,Indus Notebook Pack F437,Stationery,130.41,209.00,Yes
+P0464,Sapphire Hoodie F940,Apparel,703.53,1569.00,Yes
+P0465,Orbit Whole Wheat Atta 5kg A463,Grocery,248.25,299.00,Yes
+P0466,Pristine Toothpaste Pack L113,Beauty & Personal Care,116.70,199.00,Yes
+P0467,Pristine Perfume P561,Beauty & Personal Care,459.44,809.00,Yes
+P0468,Everyday Sketch Pens V463,Stationery,28.21,49.00,Yes
+P0469,Nova Non-Stick Pan V224,Home & Kitchen,776.42,1069.00,Yes
+P0470,Aura Sunflower Oil 1L M10,Grocery,144.75,169.00,Yes
+P0471,UrbanEdge Denim Jeans F335,Apparel,582.69,1189.00,Yes
+P0472,Lumo Whole Wheat Atta 5kg L941,Grocery,246.70,269.00,Yes
+P0473,Zenith Power Bank V981,Electronics,847.13,989.00,Yes
+P0474,Orbit Bedsheet Set R97,Home & Kitchen,1160.03,2099.00,Yes
+P0475,Kriti Hoodie M425,Apparel,631.79,1329.00,Yes
+P0476,Trivo Denim Jeans K997,Apparel,1630.07,2859.00,Yes
+P0477,Trivo Formal Shirt N67,Apparel,771.79,1899.00,Yes
+P0478,Everyday Perfume V157,Beauty & Personal Care,977.00,1919.00,Yes
+P0479,Lumo Lipstick G163,Beauty & Personal Care,412.92,739.00,Yes
+P0480,Kosmo Socks Pack F711,Apparel,266.30,449.00,Yes
+P0481,Kriti Jacket C677,Apparel,868.15,1529.00,Yes
+P0482,Nova Storage Container Set H592,Home & Kitchen,618.72,1009.00,Yes
+P0483,Trivo Whole Wheat Atta 5kg M215,Grocery,296.19,349.00,Yes
+P0484,Lumo Leggings S477,Apparel,386.84,829.00,Yes
+P0485,Aura Headphones P21,Electronics,1487.48,1769.00,Yes
+P0486,Kriti Denim Jeans Z176,Apparel,628.88,1439.00,Yes
+P0487,Aura Breakfast Cereal M800,Grocery,237.01,269.00,Yes
+P0488,Kriti Non-Stick Pan B778,Home & Kitchen,1624.86,2259.00,Yes
+P0489,UrbanEdge Sunflower Oil 1L D343,Grocery,179.29,209.00,Yes
+P0490,UrbanEdge Breakfast Cereal P914,Grocery,132.65,149.00,Yes
+P0491,Indus Shampoo S596,Beauty & Personal Care,427.67,679.00,Yes
+P0492,Kosmo Shampoo T290,Beauty & Personal Care,274.79,469.00,Yes
+P0493,Lumo Shampoo D654,Beauty & Personal Care,160.73,289.00,Yes
+P0494,Zenith Kurta H821,Apparel,1181.79,2369.00,Yes
+P0495,Orbit Dumbbell Set N876,Sports & Fitness,2329.40,3839.00,No
+P0496,Orbit Sunflower Oil 1L R610,Grocery,144.38,159.00,Yes
+P0497,Nova Denim Jeans Z553,Apparel,869.44,1479.00,Yes
+P0498,UrbanEdge Toothpaste Pack X823,Beauty & Personal Care,107.71,219.00,Yes
+P0499,Aura Denim Jeans A478,Apparel,1023.05,2099.00,Yes
+P0500,Orbit Organic Honey S107,Grocery,223.89,279.00,Yes
+P0501,Sapphire Gym Gloves F748,Sports & Fitness,497.03,709.00,Yes
+P0502,Zenith Building Blocks M119,Toys & Games,1419.51,2439.00,Yes
+P0503,Zenith Geometry Box G890,Stationery,185.37,289.00,Yes
+P0504,Indus Whole Wheat Atta 5kg V711,Grocery,309.41,349.00,Yes
+P0505,Kriti Masala Noodles Pack K242,Grocery,51.97,59.00,Yes
+P0506,Trivo Football C575,Sports & Fitness,1054.14,1609.00,Yes
+P0507,Aura Denim Jeans V861,Apparel,699.12,1279.00,Yes
+P0508,Orbit Building Blocks H73,Toys & Games,779.97,1439.00,Yes
+P0509,Kosmo Instant Coffee C709,Grocery,247.74,309.00,Yes
+P0510,Orbit Headphones M639,Electronics,883.68,1039.00,Yes
+P0511,Trivo Smart Bulb K452,Electronics,931.14,1229.00,Yes
+P0512,Indus Jigsaw Puzzle F646,Toys & Games,595.04,979.00,Yes
+P0513,Everyday Mechanical Keyboard L106,Electronics,2575.41,3489.00,Yes
+P0514,Orbit Socks Pack V500,Apparel,199.90,419.00,Yes
+P0515,Orbit Formal Shirt L277,Apparel,589.74,1059.00,Yes
+P0516,Lumo Water Bottle D883,Home & Kitchen,356.86,509.00,Yes
+P0517,Trivo Hoodie P190,Apparel,952.71,1839.00,Yes
+P0518,Bloom Dumbbell Set M964,Sports & Fitness,2082.68,2789.00,Yes
+P0519,Sapphire Wireless Earbuds A907,Electronics,2881.54,3889.00,Yes
+P0520,Trivo Doll House S274,Toys & Games,2104.21,3639.00,Yes
+P0521,Kosmo Board Game F783,Toys & Games,328.95,579.00,Yes
+P0522,Indus Socks Pack K459,Apparel,144.77,259.00,Yes
+P0523,Lumo Electric Kettle D916,Home & Kitchen,1356.51,2359.00,Yes
+P0524,Sapphire Shampoo X56,Beauty & Personal Care,378.14,679.00,Yes
+P0525,Zenith Smartwatch D178,Electronics,5929.27,7069.00,Yes
+P0526,Kriti Leggings R763,Apparel,171.00,419.00,Yes
+P0527,Orbit Sketch Pens R649,Stationery,94.42,149.00,Yes
+P0528,UrbanEdge School Backpack P262,Stationery,1521.71,2379.00,Yes
+P0529,Bloom Football L636,Sports & Fitness,975.76,1479.00,Yes
+P0530,UrbanEdge Denim Jeans Z280,Apparel,1282.27,2349.00,Yes
+P0531,UrbanEdge Hair Oil T459,Beauty & Personal Care,116.17,199.00,Yes
+P0532,UrbanEdge Face Wash E137,Beauty & Personal Care,118.62,219.00,Yes
+P0533,Bloom Saree E902,Apparel,2943.23,5719.00,Yes
+P0534,Zenith Lipstick L763,Beauty & Personal Care,115.81,229.00,Yes
+P0535,Sapphire Wireless Mouse A382,Electronics,346.86,459.00,Yes
+P0536,Aura Non-Stick Pan B73,Home & Kitchen,511.69,929.00,Yes
+P0537,Sapphire Green Tea B714,Grocery,281.98,339.00,Yes
+P0538,Sapphire Pressure Cooker D602,Home & Kitchen,1281.47,1709.00,Yes
+P0539,Trivo Dinner Set L338,Home & Kitchen,1061.32,1489.00,Yes
+P0540,Zenith Building Blocks K318,Toys & Games,330.23,639.00,Yes
+P0541,Kriti Water Colours B717,Stationery,321.64,479.00,Yes
+P0542,Orbit Basmati Rice 5kg B196,Grocery,762.20,839.00,Yes
+P0543,Zenith Action Figure P675,Toys & Games,532.34,1059.00,Yes
+P0544,Bloom Gel Pen Set G49,Stationery,140.54,249.00,Yes
+P0545,Everyday Pressure Cooker A512,Home & Kitchen,1662.31,2219.00,Yes
+P0546,Kriti Saree T182,Apparel,1148.39,2289.00,Yes
+P0547,Nova Cotton T-Shirt C865,Apparel,163.20,359.00,Yes
+P0548,UrbanEdge Bluetooth Speaker N36,Electronics,2859.59,3369.00,Yes
+P0549,Lumo Cricket Bat S394,Sports & Fitness,3225.59,5199.00,Yes
+P0550,Lumo Kurta M932,Apparel,443.36,779.00,Yes
+P0551,Indus Mixed Dry Fruits S652,Grocery,922.59,1139.00,Yes
+P0552,Everyday Bedsheet Set E71,Home & Kitchen,1243.05,1659.00,Yes
+P0553,Zenith Water Bottle D704,Home & Kitchen,182.83,269.00,Yes
+P0554,Indus Scientific Calculator V750,Stationery,730.41,1089.00,Yes
+P0555,Trivo Smartwatch B337,Electronics,1811.34,2169.00,Yes
+P0556,Aura Wall Clock F698,Home & Kitchen,1016.03,1699.00,Yes
+P0557,UrbanEdge Denim Jeans K202,Apparel,1212.05,2609.00,Yes
+P0558,Orbit Green Tea E121,Grocery,250.64,289.00,Yes
+P0559,Vista Sunflower Oil 1L A141,Grocery,134.14,149.00,Yes
+P0560,Kriti Whole Wheat Atta 5kg R328,Grocery,244.79,279.00,Yes
+P0561,Everyday Mechanical Keyboard S306,Electronics,3942.45,5379.00,Yes
+P0562,Zenith Pressure Cooker F803,Home & Kitchen,1878.58,2759.00,Yes
+P0563,Everyday Doll House L557,Toys & Games,1592.54,3149.00,Yes
+P0564,Aura Perfume F805,Beauty & Personal Care,1104.52,1719.00,Yes
+P0565,Zenith Face Wash D52,Beauty & Personal Care,139.07,259.00,Yes
+P0566,Zenith Face Wash A482,Beauty & Personal Care,247.27,389.00,Yes
+P0567,Trivo Resistance Bands Z765,Sports & Fitness,376.78,529.00,Yes
+P0568,Kriti Power Bank F598,Electronics,740.25,1019.00,Yes
+P0569,Orbit Denim Jeans M821,Apparel,1110.75,2419.00,Yes
+P0570,Vista Sunflower Oil 1L Z114,Grocery,157.72,179.00,Yes
+P0571,Orbit Saree B103,Apparel,636.96,1169.00,Yes
+P0572,UrbanEdge Remote Control Car C426,Toys & Games,1676.40,2919.00,Yes
+P0573,Zenith Basmati Rice 5kg N723,Grocery,631.05,719.00,Yes
+P0574,Lumo Cycling Helmet A966,Sports & Fitness,1454.65,2229.00,Yes
+P0575,Indus Jigsaw Puzzle C36,Toys & Games,392.10,649.00,Yes
+P0576,Kriti Sunflower Oil 1L V999,Grocery,141.40,159.00,Yes
+P0577,Bloom Notebook Pack D35,Stationery,74.95,109.00,Yes
+P0578,Lumo Whole Wheat Atta 5kg T937,Grocery,193.11,239.00,Yes
+P0579,Lumo Action Figure L73,Toys & Games,692.31,1079.00,Yes
+P0580,Indus Denim Jeans T318,Apparel,698.88,1199.00,Yes
+P0581,Nova Instant Coffee C803,Grocery,349.90,419.00,Yes
+P0582,Orbit Mixed Dry Fruits B850,Grocery,940.05,1079.00,Yes
+P0583,Vista Smart Bulb L282,Electronics,436.63,599.00,Yes
+P0584,Nova Saree D357,Apparel,1163.40,2209.00,Yes
+P0585,Vista Geometry Box X525,Stationery,204.65,319.00,Yes
+P0586,Trivo Shampoo D112,Beauty & Personal Care,376.65,609.00,Yes
+P0587,Vista Storage Container Set C593,Home & Kitchen,655.30,1109.00,Yes
+P0588,Indus Socks Pack L124,Apparel,171.50,289.00,Yes
+P0589,Nova Wall Clock F362,Home & Kitchen,604.69,929.00,Yes
+P0590,Lumo Wireless Mouse D670,Electronics,716.75,929.00,Yes
+P0591,Aura File Folder Set V600,Stationery,116.01,199.00,Yes
+P0592,Aura Denim Jeans G650,Apparel,765.12,1659.00,Yes
+P0593,UrbanEdge Hoodie M45,Apparel,770.85,1829.00,Yes
+P0594,Sapphire Organic Honey R430,Grocery,222.51,259.00,Yes
+P0595,Nova Mechanical Keyboard F954,Electronics,6045.21,7489.00,Yes
+P0596,Aura Cotton T-Shirt P561,Apparel,377.71,909.00,Yes
+P0597,Kosmo Lipstick X945,Beauty & Personal Care,404.61,749.00,Yes
+P0598,Pristine Lipstick H701,Beauty & Personal Care,254.54,409.00,Yes
+P0599,Kriti Sketch Pens V927,Stationery,27.04,49.00,Yes
+P0600,Zenith Beard Trimmer L651,Beauty & Personal Care,623.65,1219.00,Yes
+P0601,Zenith Organic Honey L908,Grocery,453.45,529.00,Yes
+P0602,Everyday Yoga Mat H259,Sports & Fitness,1111.88,1719.00,Yes
+P0603,Vista File Folder Set Z142,Stationery,73.30,129.00,Yes
+P0604,Vista Lipstick N239,Beauty & Personal Care,141.03,239.00,Yes
+P0605,Orbit School Backpack B851,Stationery,1438.36,2089.00,Yes
+P0606,Sapphire Cricket Bat C408,Sports & Fitness,1884.89,3049.00,Yes
+P0607,UrbanEdge Jigsaw Puzzle V879,Toys & Games,456.75,669.00,Yes
+P0608,Everyday Mechanical Keyboard D562,Electronics,5473.88,6929.00,Yes
+P0609,Kriti Sports Shoes C566,Sports & Fitness,1917.12,2609.00,Yes
+P0610,Aura Leggings N600,Apparel,292.71,489.00,Yes
+P0611,Kosmo Instant Coffee V370,Grocery,264.48,289.00,Yes
+P0612,Everyday Shampoo R758,Beauty & Personal Care,189.73,369.00,Yes
+P0613,Aura Sketch Pens T563,Stationery,94.91,169.00,Yes
+P0614,Nova Sticky Notes P784,Stationery,24.59,49.00,Yes
+P0615,Kriti Kurta B793,Apparel,1375.96,2309.00,Yes
+P0616,Pristine Cricket Bat H295,Sports & Fitness,4296.54,5739.00,Yes
+P0617,Indus Cycling Helmet H308,Sports & Fitness,1865.02,2979.00,Yes
+P0618,Aura Formal Shirt L452,Apparel,1249.15,2439.00,Yes
+P0619,Lumo Electric Kettle R438,Home & Kitchen,958.56,1499.00,Yes
+P0620,Sapphire Smart Bulb F568,Electronics,890.92,1219.00,Yes
+P0621,Pristine Cricket Bat X567,Sports & Fitness,3045.03,5229.00,Yes
+P0622,Bloom Mixed Dry Fruits F748,Grocery,837.99,999.00,Yes
+P0623,Kosmo Water Colours Z12,Stationery,174.12,299.00,Yes
+P0624,Sapphire Tomato Ketchup M818,Grocery,143.82,159.00,Yes
+P0625,Bloom Sketch Pens H855,Stationery,98.83,159.00,Yes
+P0626,Pristine Leggings N648,Apparel,383.32,639.00,Yes
+P0627,Bloom Sports Shoes K811,Sports & Fitness,2634.64,4049.00,Yes
+P0628,Bloom Mechanical Keyboard N710,Electronics,2665.71,3669.00,Yes
+P0629,Kriti Sunflower Oil 1L V757,Grocery,177.33,219.00,Yes
+P0630,Orbit Sports Shoes T767,Sports & Fitness,1455.18,2269.00,Yes
+P0631,Vista Desk Organizer N387,Stationery,616.36,909.00,Yes
+P0632,Vista Art & Craft Kit X161,Toys & Games,467.34,689.00,Yes
+P0633,Sapphire Power Bank Z26,Electronics,1577.82,1809.00,Yes
+P0634,Vista Cotton T-Shirt F797,Apparel,187.72,409.00,Yes
+P0635,Kosmo Mechanical Keyboard E310,Electronics,4746.00,5549.00,Yes
+P0636,Everyday Power Bank K232,Electronics,1438.86,1949.00,Yes
+P0637,Aura Shampoo Z997,Beauty & Personal Care,237.66,429.00,Yes
+P0638,Zenith Shampoo P557,Beauty & Personal Care,295.43,619.00,Yes
+P0639,Trivo Cricket Bat A801,Sports & Fitness,2841.40,4109.00,Yes
+P0640,Vista Puzzle Cube K519,Toys & Games,327.44,569.00,Yes
+P0641,Bloom Skipping Rope V192,Sports & Fitness,215.69,379.00,Yes
+P0642,Kriti Cricket Bat A488,Sports & Fitness,3391.42,5869.00,Yes
+P0643,Sapphire Wireless Mouse Z149,Electronics,560.23,739.00,Yes
+P0644,Aura Water Bottle N393,Home & Kitchen,348.94,509.00,Yes
+P0645,Sapphire Shampoo C82,Beauty & Personal Care,164.81,329.00,Yes
+P0646,Indus Building Blocks N725,Toys & Games,1536.14,2479.00,Yes
+P0647,Everyday Power Bank C489,Electronics,2075.71,2539.00,Yes
+P0648,Indus Masala Noodles Pack B334,Grocery,65.06,79.00,Yes
+P0649,Sapphire Moisturizer L997,Beauty & Personal Care,198.11,309.00,Yes
+P0650,Everyday Wireless Mouse E443,Electronics,996.35,1369.00,Yes
+P0651,Aura Saree Z227,Apparel,824.10,1649.00,Yes
+P0652,Kriti Soft Toy E254,Toys & Games,200.74,299.00,Yes
+P0653,UrbanEdge Hair Oil H334,Beauty & Personal Care,87.68,169.00,Yes
+P0654,Orbit Bedsheet Set M697,Home & Kitchen,1730.46,2749.00,Yes
+P0655,Trivo Soft Toy F964,Toys & Games,310.95,489.00,Yes
+P0656,Orbit Track Pants C837,Apparel,397.15,779.00,Yes
+P0657,Bloom Soft Toy D675,Toys & Games,506.76,969.00,Yes
+P0658,Orbit Leggings S965,Apparel,236.70,409.00,Yes
+P0659,Lumo Mixed Dry Fruits F71,Grocery,619.15,729.00,Yes
+P0660,Sapphire Track Pants L539,Apparel,315.71,719.00,Yes
+P0661,Aura Saree P184,Apparel,501.92,1149.00,Yes
+P0662,Nova Soft Toy E395,Toys & Games,761.66,1209.00,Yes
+P0663,Kosmo Water Bottle X218,Home & Kitchen,551.74,799.00,Yes
+P0664,Aura USB Charger V92,Electronics,413.76,499.00,Yes
+P0665,UrbanEdge Track Pants M66,Apparel,389.75,919.00,Yes
+P0666,Kosmo Moisturizer E682,Beauty & Personal Care,396.01,839.00,Yes
+P0667,Kosmo Football G137,Sports & Fitness,799.06,1129.00,Yes
+P0668,Trivo Scientific Calculator V614,Stationery,671.35,1069.00,Yes
+P0669,Aura Jacket S879,Apparel,1197.01,2709.00,Yes
+P0670,Aura Hoodie V62,Apparel,1142.63,2099.00,Yes
+P0671,Indus Non-Stick Pan R492,Home & Kitchen,611.00,919.00,Yes
+P0672,UrbanEdge Basmati Rice 5kg H952,Grocery,482.15,549.00,Yes
+P0673,Orbit Sticky Notes E604,Stationery,75.45,109.00,Yes
+P0674,Zenith Hair Oil Z429,Beauty & Personal Care,129.40,259.00,Yes
+P0675,Aura Green Tea A435,Grocery,145.81,159.00,Yes
+P0676,Everyday Jacket Z687,Apparel,1139.71,2349.00,Yes
+P0677,Nova Desk Organizer E673,Stationery,259.20,409.00,Yes
+P0678,Pristine Organic Honey D760,Grocery,398.97,489.00,Yes
+P0679,Kriti Cushion Cover X834,Home & Kitchen,376.14,649.00,Yes
+P0680,Bloom Hoodie N480,Apparel,1065.29,2579.00,Yes
+P0681,Orbit Bluetooth Speaker C437,Electronics,3606.85,4849.00,Yes
+P0682,Sapphire Electric Kettle N256,Home & Kitchen,1203.91,2159.00,Yes
+P0683,Bloom Wireless Mouse E907,Electronics,897.41,1229.00,Yes
+P0684,Lumo Whole Wheat Atta 5kg R975,Grocery,296.08,329.00,Yes
+P0685,Kosmo Moisturizer T446,Beauty & Personal Care,352.91,719.00,Yes
+P0686,Kosmo Saree T515,Apparel,831.25,1939.00,Yes
+P0687,Zenith Cotton T-Shirt V877,Apparel,439.42,799.00,Yes
+P0688,Aura Water Colours S516,Stationery,122.26,179.00,Yes
+P0689,Pristine Cycling Helmet H350,Sports & Fitness,1891.73,2879.00,Yes
+P0690,Kosmo Whole Wheat Atta 5kg E173,Grocery,225.62,279.00,Yes
+P0691,Kriti Denim Jeans F256,Apparel,960.25,1649.00,Yes
+P0692,Nova Toy Train Set E343,Toys & Games,1517.03,2539.00,Yes
+P0693,Orbit Water Bottle H961,Home & Kitchen,359.13,639.00,Yes
+P0694,Bloom Formal Shirt G496,Apparel,966.48,2189.00,Yes
+P0695,Bloom School Backpack B962,Stationery,410.75,749.00,Yes
+P0696,Zenith Breakfast Cereal H233,Grocery,322.41,399.00,Yes
+P0697,Vista Football M136,Sports & Fitness,1053.98,1889.00,Yes
+P0698,Trivo Tomato Ketchup R331,Grocery,150.99,169.00,Yes
+P0699,Nova Face Wash C656,Beauty & Personal Care,106.97,199.00,Yes
+P0700,Orbit Track Pants A280,Apparel,661.17,1279.00,Yes
+P0701,Nova Pressure Cooker L186,Home & Kitchen,1223.10,1779.00,Yes
+P0702,Nova Kurta S633,Apparel,419.64,899.00,Yes
+P0703,Kriti Storage Container Set T146,Home & Kitchen,801.29,1259.00,Yes
+P0704,Lumo Toy Train Set F396,Toys & Games,570.24,929.00,Yes
+P0705,Pristine Leggings T842,Apparel,217.07,469.00,Yes
+P0706,Indus Breakfast Cereal M40,Grocery,289.98,339.00,Yes
+P0707,Bloom Skipping Rope C334,Sports & Fitness,270.69,389.00,Yes
+P0708,Kriti Resistance Bands K624,Sports & Fitness,601.78,919.00,Yes
+P0709,Pristine Jacket B445,Apparel,1701.14,3139.00,Yes
+P0710,Bloom Masala Noodles Pack K290,Grocery,40.41,49.00,Yes
+P0711,Bloom Geometry Box B612,Stationery,147.49,259.00,Yes
+P0712,Kriti Face Wash P708,Beauty & Personal Care,165.66,329.00,Yes
+P0713,Kosmo Skipping Rope L284,Sports & Fitness,185.59,279.00,Yes
+P0714,Trivo Scientific Calculator E227,Stationery,514.93,889.00,Yes
+P0715,Sapphire Football K90,Sports & Fitness,705.54,1159.00,Yes
+P0716,Vista Non-Stick Pan A350,Home & Kitchen,399.02,649.00,Yes
+P0717,Kriti Green Tea A264,Grocery,212.23,249.00,Yes
+P0718,Orbit Bluetooth Speaker V211,Electronics,3716.95,4529.00,Yes
+P0719,Zenith Shampoo P418,Beauty & Personal Care,116.60,259.00,Yes
+P0720,Nova Sketch Pens T424,Stationery,131.54,189.00,Yes
+P0721,Bloom Instant Coffee V468,Grocery,549.90,659.00,Yes
+P0722,Kriti Kurta B850,Apparel,269.35,669.00,Yes
+P0723,Everyday Smart Bulb V666,Electronics,539.18,629.00,Yes
+P0724,Vista School Backpack Z623,Stationery,818.46,1589.00,Yes
+P0725,Aura Headphones M200,Electronics,3948.89,4599.00,Yes
+P0726,UrbanEdge LED Monitor E535,Electronics,16701.62,21769.00,Yes
+P0727,Trivo Pressure Cooker K882,Home & Kitchen,1802.79,3069.00,Yes
+P0728,Lumo Wireless Mouse A479,Electronics,1036.85,1299.00,Yes
+P0729,Sapphire Organic Honey D311,Grocery,304.50,349.00,Yes
+P0730,Vista Whole Wheat Atta 5kg S436,Grocery,268.20,319.00,Yes
+P0731,Kosmo Formal Shirt F923,Apparel,1204.38,2269.00,Yes
+P0732,Kosmo Wireless Earbuds S830,Electronics,2572.22,3239.00,Yes
+P0733,UrbanEdge Wireless Earbuds T590,Electronics,3687.87,4639.00,Yes
+P0734,Vista Kurta B270,Apparel,334.89,669.00,Yes
+P0735,Trivo LED Monitor T102,Electronics,15230.21,19029.00,Yes
+P0736,Zenith Sunscreen G612,Beauty & Personal Care,238.00,389.00,Yes
+P0737,UrbanEdge Wall Clock S100,Home & Kitchen,1280.86,1809.00,Yes
+P0738,Everyday Socks Pack G959,Apparel,128.21,249.00,Yes
+P0739,Kriti Saree A597,Apparel,2678.40,4569.00,Yes
+P0740,Kriti Kurta B402,Apparel,1388.54,2399.00,Yes
+P0741,Aura Power Bank Z281,Electronics,768.06,999.00,Yes
+P0742,Trivo USB Charger P166,Electronics,311.33,389.00,Yes
+P0743,Pristine Remote Control Car M153,Toys & Games,727.69,1429.00,Yes
+P0744,Vista USB Charger N210,Electronics,433.02,499.00,Yes
+P0745,Nova Tomato Ketchup Z655,Grocery,93.83,109.00,Yes
+P0746,Zenith Instant Coffee D241,Grocery,356.25,419.00,Yes
+P0747,Trivo Cotton T-Shirt C472,Apparel,194.03,349.00,Yes
+P0748,Kriti Cotton T-Shirt M428,Apparel,403.67,999.00,Yes
+P0749,Zenith Cycling Helmet E23,Sports & Fitness,1270.74,1809.00,Yes
+P0750,Zenith Doll House C188,Toys & Games,1952.46,3089.00,No
+P0751,Bloom Storage Container Set H248,Home & Kitchen,422.55,729.00,Yes
+P0752,Lumo Hoodie T160,Apparel,645.71,1289.00,Yes
+P0753,UrbanEdge Mixer Grinder Z180,Home & Kitchen,4092.12,5869.00,Yes
+P0754,Everyday Sunflower Oil 1L E552,Grocery,118.45,139.00,Yes
+P0755,Kosmo Hair Oil G724,Beauty & Personal Care,144.83,229.00,Yes
+P0756,Kosmo Wall Clock K903,Home & Kitchen,487.10,709.00,Yes
+P0757,Indus Jacket R666,Apparel,2258.34,4809.00,Yes
+P0758,Vista Sticky Notes D361,Stationery,107.01,179.00,Yes
+P0759,Orbit Headphones B398,Electronics,5082.67,5909.00,Yes
+P0760,Aura Breakfast Cereal A823,Grocery,348.94,399.00,Yes
+P0761,Pristine Beard Trimmer P925,Beauty & Personal Care,1562.97,2509.00,Yes
+P0762,Vista Electric Kettle G272,Home & Kitchen,869.41,1239.00,Yes
+P0763,Trivo Power Bank D672,Electronics,1710.22,2349.00,Yes
+P0764,Lumo Pressure Cooker G851,Home & Kitchen,1436.94,2459.00,Yes
+P0765,Aura Gel Pen Set K802,Stationery,148.41,239.00,Yes
+P0766,Kriti LED Monitor K590,Electronics,17048.02,19959.00,Yes
+P0767,Zenith Water Bottle S698,Home & Kitchen,519.61,749.00,Yes
+P0768,Everyday Smart Bulb H650,Electronics,456.78,559.00,Yes
+P0769,Pristine Mechanical Keyboard T412,Electronics,2668.94,3049.00,Yes
+P0770,Orbit Perfume X456,Beauty & Personal Care,1193.57,1929.00,Yes
+P0771,Trivo Pressure Cooker C316,Home & Kitchen,1189.56,1969.00,Yes
+P0772,Lumo Whole Wheat Atta 5kg A620,Grocery,332.71,389.00,Yes
+P0773,Zenith Sunflower Oil 1L S767,Grocery,135.27,149.00,Yes
+P0774,Sapphire Action Figure D329,Toys & Games,393.03,599.00,Yes
+P0775,Lumo Smartwatch L906,Electronics,7762.03,10079.00,Yes
+P0776,Aura Soft Toy K312,Toys & Games,640.39,1089.00,Yes
+P0777,Everyday Sunscreen A730,Beauty & Personal Care,177.15,349.00,Yes
+P0778,Everyday Bedsheet Set N829,Home & Kitchen,1295.24,1889.00,Yes
+P0779,Indus Resistance Bands G275,Sports & Fitness,476.55,799.00,Yes
+P0780,Lumo Toy Train Set L488,Toys & Games,1717.65,2699.00,Yes
+P0781,Kriti Electric Kettle H391,Home & Kitchen,1236.23,2159.00,Yes
+P0782,Kriti School Backpack T484,Stationery,530.06,889.00,Yes
+P0783,Indus Mixed Dry Fruits S630,Grocery,939.63,1129.00,Yes
+P0784,Pristine Face Wash G30,Beauty & Personal Care,180.34,329.00,Yes
+P0785,Vista Gel Pen Set D797,Stationery,122.23,219.00,Yes
+P0786,Trivo Saree A389,Apparel,2159.03,3639.00,Yes
+P0787,Vista Skipping Rope B693,Sports & Fitness,192.63,259.00,Yes
+P0788,Pristine Jacket L542,Apparel,1621.96,2949.00,Yes
+P0789,Pristine Football B16,Sports & Fitness,766.30,1209.00,Yes
+P0790,Everyday Perfume E215,Beauty & Personal Care,380.11,679.00,Yes
+P0791,Vista Storage Container Set G402,Home & Kitchen,369.34,639.00,Yes
+P0792,Orbit Denim Jeans Z410,Apparel,893.58,1499.00,Yes
+P0793,Lumo Hoodie D709,Apparel,757.72,1859.00,Yes
+P0794,Kriti Power Bank C560,Electronics,1039.42,1379.00,Yes
+P0795,Orbit Power Bank P899,Electronics,2302.05,2969.00,Yes
+P0796,Bloom Denim Jeans G489,Apparel,574.68,1249.00,Yes
+P0797,Everyday LED Monitor X142,Electronics,18750.85,21719.00,Yes
+P0798,Zenith Pressure Cooker H726,Home & Kitchen,1892.59,2579.00,Yes
+P0799,Lumo Toothpaste Pack Z523,Beauty & Personal Care,159.80,269.00,Yes
+P0800,Zenith Toothpaste Pack X111,Beauty & Personal Care,171.58,279.00,Yes
+P0801,Kosmo Gym Gloves B618,Sports & Fitness,626.07,859.00,Yes
+P0802,Indus Cotton T-Shirt P71,Apparel,460.27,819.00,Yes
+P0803,Pristine Action Figure E363,Toys & Games,346.73,619.00,No
+P0804,Pristine Basmati Rice 5kg B193,Grocery,476.21,559.00,Yes
+P0805,Bloom Non-Stick Pan E687,Home & Kitchen,404.46,729.00,Yes
+P0806,UrbanEdge Mixer Grinder L161,Home & Kitchen,1761.73,2579.00,Yes
+P0807,Kosmo Beard Trimmer V184,Beauty & Personal Care,1449.91,2739.00,Yes
+P0808,Lumo Cushion Cover R42,Home & Kitchen,193.61,349.00,Yes
+P0809,Bloom Whole Wheat Atta 5kg M180,Grocery,327.39,359.00,Yes
+P0810,Trivo School Backpack N658,Stationery,1332.76,2249.00,Yes
+P0811,Indus Mechanical Keyboard K513,Electronics,5601.64,6969.00,Yes
+P0812,Bloom Wireless Mouse F30,Electronics,512.12,689.00,Yes
+P0813,UrbanEdge Scientific Calculator F158,Stationery,820.90,1299.00,Yes
+P0814,UrbanEdge Sunflower Oil 1L P79,Grocery,146.50,179.00,Yes
+P0815,Nova Wall Clock X286,Home & Kitchen,636.43,1139.00,Yes
+P0816,Kriti Action Figure L818,Toys & Games,887.21,1379.00,Yes
+P0817,Bloom Puzzle Cube L817,Toys & Games,233.24,379.00,Yes
+P0818,Indus Mixed Dry Fruits K483,Grocery,799.41,999.00,Yes
+P0819,Sapphire Shampoo V51,Beauty & Personal Care,382.23,629.00,Yes
+P0820,Pristine Track Pants N703,Apparel,736.82,1359.00,Yes
+P0821,Nova USB Charger S138,Electronics,507.20,649.00,Yes
+P0822,Everyday Basmati Rice 5kg Z224,Grocery,469.47,579.00,Yes
+P0823,Kriti Track Pants E74,Apparel,640.86,1099.00,Yes
+P0824,Zenith Shampoo H408,Beauty & Personal Care,238.67,489.00,Yes
+P0825,Pristine Board Game F691,Toys & Games,794.55,1339.00,Yes
+P0826,Vista Smart Bulb G356,Electronics,748.53,1039.00,Yes
+P0827,Nova Masala Noodles Pack D350,Grocery,50.36,59.00,Yes
+P0828,Kriti Electric Kettle V800,Home & Kitchen,1207.24,1869.00,Yes
+P0829,Kosmo Board Game K623,Toys & Games,1195.25,1709.00,Yes
+P0830,Kriti Mixer Grinder S402,Home & Kitchen,3955.86,6829.00,Yes
+P0831,Sapphire Lipstick P68,Beauty & Personal Care,336.30,639.00,Yes
+P0832,Kosmo Organic Honey A744,Grocery,382.52,419.00,Yes
+P0833,Sapphire Hoodie P940,Apparel,1639.82,2829.00,Yes
+P0834,Zenith Sunscreen P79,Beauty & Personal Care,259.77,539.00,Yes
+P0835,Nova Moisturizer N813,Beauty & Personal Care,147.34,269.00,Yes
+P0836,Zenith Organic Honey B241,Grocery,212.09,249.00,Yes
+P0837,Bloom Skipping Rope K878,Sports & Fitness,345.54,579.00,Yes
+P0838,Vista Water Colours Z77,Stationery,284.61,429.00,Yes
+P0839,Orbit Saree E694,Apparel,530.67,1259.00,Yes
+P0840,Kriti Organic Honey N744,Grocery,274.87,319.00,Yes
+P0841,Kosmo Headphones V979,Electronics,4553.20,5879.00,Yes
+P0842,Indus Sports Shoes S592,Sports & Fitness,1328.86,2029.00,Yes
+P0843,UrbanEdge Whole Wheat Atta 5kg V127,Grocery,264.89,299.00,Yes
+P0844,Vista Formal Shirt D177,Apparel,519.96,1079.00,Yes
+P0845,Bloom LED Monitor E35,Electronics,8337.51,11319.00,Yes
+P0846,Vista Puzzle Cube E476,Toys & Games,189.29,289.00,Yes
+P0847,Sapphire Denim Jeans L162,Apparel,1525.82,2829.00,Yes
+P0848,Bloom Beard Trimmer C762,Beauty & Personal Care,1316.55,2159.00,Yes
+P0849,Vista Water Bottle M444,Home & Kitchen,446.89,659.00,Yes
+P0850,UrbanEdge Sticky Notes V780,Stationery,106.31,159.00,Yes
+P0851,Indus Storage Container Set N280,Home & Kitchen,887.13,1189.00,Yes
+P0852,Vista Electric Kettle L381,Home & Kitchen,1024.18,1809.00,Yes
+P0853,Everyday Jigsaw Puzzle P61,Toys & Games,255.93,409.00,Yes
+P0854,Indus Water Colours X777,Stationery,103.13,159.00,Yes
+P0855,Lumo Cushion Cover P515,Home & Kitchen,156.66,209.00,Yes
+P0856,Aura Green Tea E236,Grocery,168.43,199.00,Yes
+P0857,Lumo Football M146,Sports & Fitness,761.82,1069.00,Yes
+P0858,Kosmo Remote Control Car T902,Toys & Games,695.19,1089.00,Yes
+P0859,Sapphire Socks Pack A571,Apparel,135.27,279.00,Yes
+P0860,Sapphire Organic Honey G308,Grocery,255.60,289.00,Yes
+P0861,Nova Badminton Racket P912,Sports & Fitness,958.70,1669.00,Yes
+P0862,Zenith Skipping Rope L494,Sports & Fitness,241.87,359.00,Yes
+P0863,Lumo Cricket Bat M973,Sports & Fitness,650.76,1119.00,Yes
+P0864,Orbit Breakfast Cereal E340,Grocery,298.97,349.00,Yes
+P0865,UrbanEdge Mechanical Keyboard R826,Electronics,4799.58,5499.00,Yes
+P0866,Pristine Water Colours E969,Stationery,164.35,259.00,Yes
+P0867,UrbanEdge Doll House G661,Toys & Games,1353.13,2029.00,Yes
+P0868,Kriti Sports Shoes X285,Sports & Fitness,1455.76,2559.00,Yes
+P0869,Orbit Wireless Earbuds C658,Electronics,928.01,1159.00,Yes
+P0870,Lumo Dinner Set K970,Home & Kitchen,1138.80,1949.00,Yes
+P0871,Pristine Badminton Racket R249,Sports & Fitness,1633.10,2759.00,Yes
+P0872,Sapphire Power Bank D120,Electronics,1012.11,1339.00,Yes
+P0873,Aura Water Colours V851,Stationery,183.86,309.00,Yes
+P0874,Kriti Kurta A364,Apparel,436.03,799.00,Yes
+P0875,Vista Toothpaste Pack B772,Beauty & Personal Care,95.27,199.00,Yes
+P0876,Nova Soft Toy S465,Toys & Games,489.35,849.00,Yes
+P0877,Zenith Cotton T-Shirt V195,Apparel,299.73,579.00,Yes
+P0878,Indus Hoodie S520,Apparel,756.58,1569.00,Yes
+P0879,Everyday Beard Trimmer E307,Beauty & Personal Care,777.04,1239.00,Yes
+P0880,Pristine Breakfast Cereal Z252,Grocery,197.99,239.00,Yes
+P0881,Zenith Jacket X852,Apparel,1313.26,2949.00,Yes
+P0882,Indus Perfume Z684,Beauty & Personal Care,954.25,1889.00,Yes
+P0883,Kosmo File Folder Set P323,Stationery,141.38,259.00,Yes
+P0884,Orbit Breakfast Cereal C99,Grocery,248.43,289.00,Yes
+P0885,Orbit Non-Stick Pan B372,Home & Kitchen,1615.92,2239.00,Yes
+P0886,Nova Leggings P498,Apparel,128.26,319.00,Yes
+P0887,Trivo Denim Jeans D259,Apparel,625.79,1549.00,Yes
+P0888,Bloom Pressure Cooker L686,Home & Kitchen,1463.71,1989.00,Yes
+P0889,Nova Water Bottle C748,Home & Kitchen,468.25,669.00,Yes
+P0890,Indus Beard Trimmer G706,Beauty & Personal Care,1579.86,2449.00,Yes
+P0891,Kriti Saree V815,Apparel,1204.24,2209.00,Yes
+P0892,UrbanEdge Notebook Pack E46,Stationery,164.15,299.00,Yes
+P0893,Lumo Storage Container Set B877,Home & Kitchen,681.73,989.00,Yes
+P0894,UrbanEdge Smart Bulb T198,Electronics,542.53,729.00,Yes
+P0895,Sapphire Football N84,Sports & Fitness,403.68,619.00,Yes
+P0896,Bloom Doll House S981,Toys & Games,2262.69,4269.00,No
+P0897,Bloom Saree K913,Apparel,2413.93,4839.00,Yes
+P0898,Orbit Non-Stick Pan V501,Home & Kitchen,1601.93,2279.00,Yes
+P0899,Bloom Cushion Cover C978,Home & Kitchen,225.77,319.00,Yes
+P0900,Pristine Organic Honey A403,Grocery,236.78,269.00,Yes
+P0901,Orbit Whole Wheat Atta 5kg G655,Grocery,311.83,389.00,Yes
+P0902,Bloom Dinner Set V225,Home & Kitchen,1324.34,2289.00,Yes
+P0903,Zenith Headphones K310,Electronics,7238.62,9759.00,Yes
+P0904,Bloom Basmati Rice 5kg M293,Grocery,642.41,729.00,Yes
+P0905,UrbanEdge Desk Organizer P517,Stationery,414.65,679.00,Yes
+P0906,Kosmo Moisturizer X900,Beauty & Personal Care,448.64,859.00,Yes
+P0907,Zenith Mixed Dry Fruits V337,Grocery,735.44,899.00,Yes
+P0908,UrbanEdge LED Monitor C452,Electronics,10453.30,12499.00,Yes
+P0909,Aura Storage Container Set Z62,Home & Kitchen,383.96,619.00,Yes
+P0910,Trivo Socks Pack Z228,Apparel,219.72,389.00,Yes
+P0911,Kosmo Skipping Rope K48,Sports & Fitness,97.63,149.00,Yes
+P0912,Aura Jigsaw Puzzle D222,Toys & Games,515.80,999.00,Yes
+P0913,Aura Water Colours M804,Stationery,148.18,279.00,Yes
+P0914,Zenith School Backpack T871,Stationery,517.37,839.00,Yes
+P0915,Everyday School Backpack K164,Stationery,467.53,799.00,Yes
+P0916,Bloom Sketch Pens D92,Stationery,115.11,189.00,Yes
+P0917,Lumo LED Monitor X346,Electronics,11208.08,14939.00,Yes
+P0918,Everyday Dinner Set K313,Home & Kitchen,1500.94,2089.00,Yes
+P0919,Nova Leggings P150,Apparel,219.48,469.00,Yes
+P0920,Zenith Basmati Rice 5kg S875,Grocery,518.18,569.00,Yes
+P0921,Kriti Headphones G739,Electronics,1076.15,1419.00,Yes
+P0922,Kriti Art & Craft Kit F458,Toys & Games,391.53,609.00,Yes
+P0923,Sapphire Perfume R252,Beauty & Personal Care,1288.61,2319.00,Yes
+P0924,Bloom Whole Wheat Atta 5kg H671,Grocery,321.77,369.00,Yes
+P0925,Pristine Mixer Grinder V777,Home & Kitchen,3308.30,5129.00,Yes
+P0926,Kriti Mixer Grinder V379,Home & Kitchen,3366.11,4939.00,Yes
+P0927,UrbanEdge Water Bottle L433,Home & Kitchen,299.68,409.00,Yes
+P0928,UrbanEdge Soft Toy K253,Toys & Games,383.77,709.00,Yes
+P0929,Orbit Green Tea B201,Grocery,356.97,419.00,Yes
+P0930,Trivo Resistance Bands G157,Sports & Fitness,576.67,889.00,Yes
+P0931,Pristine Formal Shirt Z616,Apparel,939.49,1719.00,Yes
+P0932,Zenith Jacket E266,Apparel,1176.47,2679.00,Yes
+P0933,Orbit Cotton T-Shirt H916,Apparel,316.12,589.00,Yes
+P0934,Trivo Dumbbell Set H748,Sports & Fitness,1107.30,1949.00,Yes
+P0935,Bloom Cycling Helmet F641,Sports & Fitness,809.89,1119.00,Yes
+P0936,Kosmo Bedsheet Set G293,Home & Kitchen,724.30,1219.00,Yes
+P0937,Zenith Desk Organizer N620,Stationery,195.03,319.00,Yes
+P0938,Everyday Dinner Set E534,Home & Kitchen,1022.65,1439.00,Yes
+P0939,Trivo Building Blocks E549,Toys & Games,880.43,1709.00,Yes
+P0940,Pristine LED Monitor X932,Electronics,21581.75,24819.00,Yes
+P0941,Vista Dinner Set T512,Home & Kitchen,1701.91,3009.00,Yes
+P0942,Pristine Remote Control Car B573,Toys & Games,1033.62,1819.00,Yes
+P0943,Kosmo Electric Kettle E403,Home & Kitchen,1247.96,2009.00,Yes
+P0944,Nova Saree S84,Apparel,1933.49,3229.00,Yes
+P0945,Pristine Formal Shirt S658,Apparel,511.63,939.00,Yes
+P0946,Aura Bedsheet Set E589,Home & Kitchen,1693.98,2989.00,Yes
+P0947,Kriti Sunscreen R752,Beauty & Personal Care,427.35,729.00,Yes
+P0948,UrbanEdge Jigsaw Puzzle T26,Toys & Games,468.79,779.00,Yes
+P0949,Aura Art & Craft Kit E189,Toys & Games,738.09,1159.00,Yes
+P0950,UrbanEdge Leggings M760,Apparel,254.14,589.00,Yes
+P0951,Pristine Mixed Dry Fruits G468,Grocery,520.33,569.00,Yes
+P0952,Sapphire Mixer Grinder R598,Home & Kitchen,4349.83,6509.00,Yes
+P0953,Pristine Mixer Grinder D684,Home & Kitchen,3671.47,5679.00,Yes
+P0954,Vista Wall Clock A25,Home & Kitchen,1261.68,1899.00,Yes
+P0955,Kosmo Sketch Pens X556,Stationery,70.43,119.00,Yes
+P0956,Bloom Jigsaw Puzzle H706,Toys & Games,277.27,489.00,Yes
+P0957,Pristine Sports Shoes Z419,Sports & Fitness,2363.34,3309.00,Yes
+P0958,Indus Organic Honey B306,Grocery,474.46,559.00,Yes
+P0959,Bloom Basmati Rice 5kg P828,Grocery,764.84,869.00,Yes
+P0960,Zenith Organic Honey T164,Grocery,180.14,199.00,Yes
+P0961,Everyday Basmati Rice 5kg R434,Grocery,628.89,709.00,Yes
+P0962,Trivo Kurta C659,Apparel,669.16,1169.00,Yes
+P0963,UrbanEdge Mixer Grinder H734,Home & Kitchen,4796.61,6759.00,Yes
+P0964,Sapphire Non-Stick Pan C950,Home & Kitchen,614.69,839.00,Yes
+P0965,Pristine Desk Organizer M285,Stationery,513.86,739.00,Yes
+P0966,Vista Organic Honey X777,Grocery,487.20,549.00,Yes
+P0967,Orbit File Folder Set H245,Stationery,82.73,129.00,Yes
+P0968,Pristine Water Bottle M252,Home & Kitchen,423.86,639.00,Yes
+P0969,Bloom Mixed Dry Fruits F558,Grocery,745.33,869.00,Yes
+P0970,Kosmo Electric Kettle V369,Home & Kitchen,1317.43,1959.00,Yes
+P0971,UrbanEdge Bedsheet Set G346,Home & Kitchen,1302.37,2069.00,Yes
+P0972,Sapphire Headphones C698,Electronics,7425.70,8609.00,Yes
+P0973,Trivo Smart Bulb Z287,Electronics,1096.35,1299.00,Yes
+P0974,Pristine School Backpack D486,Stationery,622.82,1109.00,Yes
+P0975,Kosmo Cotton T-Shirt R794,Apparel,274.04,649.00,Yes
+P0976,Vista Body Lotion V879,Beauty & Personal Care,189.73,309.00,Yes
+P0977,Bloom Sunflower Oil 1L L130,Grocery,145.79,179.00,Yes
+P0978,Bloom Kurta E470,Apparel,581.07,1009.00,Yes
+P0979,Trivo Basmati Rice 5kg B816,Grocery,853.81,969.00,Yes
+P0980,Indus Dinner Set B413,Home & Kitchen,2076.36,3669.00,Yes
+P0981,Trivo Scientific Calculator M880,Stationery,424.95,659.00,Yes
+P0982,Vista Gym Gloves P490,Sports & Fitness,380.95,539.00,Yes
+P0983,Bloom Football V633,Sports & Fitness,555.97,929.00,Yes
+P0984,Indus Breakfast Cereal P162,Grocery,184.90,219.00,Yes
+P0985,Trivo Electric Kettle M195,Home & Kitchen,1265.42,2029.00,Yes
+P0986,Sapphire Geometry Box N983,Stationery,63.32,109.00,Yes
+P0987,Vista Leggings L785,Apparel,374.67,779.00,Yes
+P0988,Orbit Smart Bulb F744,Electronics,859.58,1019.00,Yes
+P0989,Kosmo Saree X244,Apparel,3270.66,5899.00,Yes
+P0990,Sapphire Badminton Racket P717,Sports & Fitness,968.60,1429.00,Yes
+P0991,UrbanEdge Moisturizer M251,Beauty & Personal Care,192.90,349.00,Yes
+P0992,Kosmo Cricket Bat A325,Sports & Fitness,709.03,1049.00,Yes
+P0993,Nova Skipping Rope T80,Sports & Fitness,267.98,429.00,Yes
+P0994,Aura Pressure Cooker H417,Home & Kitchen,2305.55,3639.00,Yes
+P0995,Pristine Notebook Pack F914,Stationery,85.48,159.00,Yes
+P0996,Everyday Denim Jeans T169,Apparel,779.35,1449.00,Yes
+P0997,Aura Moisturizer M197,Beauty & Personal Care,245.46,469.00,Yes
+P0998,Everyday Smartwatch G856,Electronics,2934.65,3339.00,Yes
+P0999,Bloom Sketch Pens G231,Stationery,57.51,99.00,Yes
+P1000,UrbanEdge Leggings M619,Apparel,306.50,579.00,Yes

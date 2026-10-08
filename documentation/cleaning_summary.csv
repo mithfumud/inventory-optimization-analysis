@@ -1,0 +1,6 @@
+Dataset,Rows Before,Rows After,Columns Before,Columns After,Changes Made
+products,1000,1000,5,6,"Trimmed whitespace and standardized ID case (0 values changed); Formatted unit_cost, selling_price to 2 decimal places (1,094 values reformatted, amounts unchanged); Added has_sales_2025 flag (6 products marked No, all kept)"
+stores,26,26,4,4,Trimmed whitespace and standardized ID case (0 values changed)
+suppliers,1262,1262,5,5,Trimmed whitespace and standardized ID case (0 values changed); Stored lead_time_days as whole numbers (0 values changed); Kept on_time_delivery_rate as a 0-1 fraction rounded to 3 decimals (0 values changed)
+sales,60000,60000,6,7,"Trimmed whitespace and standardized ID case (0 values changed); Validated order_date as YYYY-MM-DD dates (0 values changed); Stored quantity as whole numbers (0 values changed); Formatted revenue to 2 decimal places (52,455 values reformatted, amounts unchanged); Added possible_repeat_purchase flag (234 rows marked Yes, all kept)"
+inventory,19038,19038,4,5,"Trimmed whitespace and standardized ID case (0 values changed); Stored current_stock, inventory_age_days as whole numbers (0 values changed); Added stock_status flag (1,720 rows Out of Stock, zeros kept as 0)"
